@@ -8,12 +8,13 @@ Objetivos gerais:
 - as músicas que não estiverem semelhanças pesquisá-las e adicioná-las em uma play-list escolhida
 
 O que fazer para cada objetivo geral (passo a passo)?
-- fazer login no spotify
+- fazer login no spotify -COMPLETED
     - abrir um navegador
     - abrir este link: "https://accounts.spotify.com/login?continue=https%3A%2F%2Fopen.spotify.com%2F"
     - clickar em email e digitar o email passado pelo ultilizador
     - clickar em senha e digitar a senha passado pelo ultilizador
     - clickar em entrar
+
 - armazenar todas as musicas favoritas do mesmo
     - abrir este link: "https://open.spotify.com/collection/tracks"
     - obter quantidade de músicas
@@ -21,6 +22,7 @@ O que fazer para cada objetivo geral (passo a passo)?
     - obter artista de cada música
     - obter tempo de cada música
     - armazenar tudo
+
 - fazer login no youtube
     - abrir este link: "https://www.youtube.com/"
     - clickar no botão de fazer login
@@ -30,16 +32,19 @@ O que fazer para cada objetivo geral (passo a passo)?
     - clickar em outras maneiras de confirmação
     - digitar o codigo de acesso passado pelo ultilizador
     - clikar em continuar
+
 - armazenar todas as musicas favoritas da playlist passada pelo user
     - abrir este link: "https://www.youtube.com/playlist?list=PLsQ7y6rmfgDgv332B8q6BVL7mvjL08mvN"
     - obter titulo de cada música
     - obter tempo de cada música
+
 - comparar as duas listas
     - para cada palavra da música do spotify comparar com as palavras de todas as músicas da playlist do youtube
     - caso a comparação der positiva em alguma música guardá-las
     - pegar as musicas que foram guardadas e comparar os tamanhos
     - se pegar o tamanho das duas e subtrair e não forem maior que 5 ou -5 considerar que são iguais
     - as que não forem iguais guardá-las
+
 - as músicas que não estiverem semelhanças pesquisá-las e adicioná-las em uma play-list escolhida
     - para cada música que não estiver semelhança entrar neste link: "https://www.youtube.com/results?search_query={NOME+DA+MUSICA}{ARTISTA}"
     - para cada video que vier se o nome da música estiver no vídeo e o tempo for semelhante
