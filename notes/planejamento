@@ -1,0 +1,65 @@
+Objetivos gerais:
+- fazer login no spotify
+- armazenar todas as musicas favoritas do mesmo
+- fazer login no youtube
+- armazenar todas as musicas favoritas da playlist passada pelo user
+- comparar as duas listas
+- guardar as músicas que não estiverem semelhanças
+- as músicas que não estiverem semelhanças pesquisá-las e adicioná-las em uma play-list escolhida
+
+O que fazer para cada objetivo geral (passo a passo)?
+- fazer login no spotify
+    - abrir um navegador
+    - abrir este link: "https://accounts.spotify.com/login?continue=https%3A%2F%2Fopen.spotify.com%2F"
+    - clickar em email e digitar o email passado pelo ultilizador
+    - clickar em senha e digitar a senha passado pelo ultilizador
+    - clickar em entrar
+- armazenar todas as musicas favoritas do mesmo
+    - abrir este link: "https://open.spotify.com/collection/tracks"
+    - obter quantidade de músicas
+    - obter titulo de cada música
+    - obter artista de cada música
+    - obter tempo de cada música
+    - armazenar tudo
+- fazer login no youtube
+    - abrir este link: "https://www.youtube.com/"
+    - clickar no botão de fazer login
+    - clickar em email e digitar o email passado pelo ultilizador
+    - clickar em senha e digitar a senha passado pelo ultilizador
+    - clickar em entrar
+    - clickar em outras maneiras de confirmação
+    - digitar o codigo de acesso passado pelo ultilizador
+    - clikar em continuar
+- armazenar todas as musicas favoritas da playlist passada pelo user
+    - abrir este link: "https://www.youtube.com/playlist?list=PLsQ7y6rmfgDgv332B8q6BVL7mvjL08mvN"
+    - obter titulo de cada música
+    - obter tempo de cada música
+- comparar as duas listas
+    - para cada palavra da música do spotify comparar com as palavras de todas as músicas da playlist do youtube
+    - caso a comparação der positiva em alguma música guardá-las
+    - pegar as musicas que foram guardadas e comparar os tamanhos
+    - se pegar o tamanho das duas e subtrair e não forem maior que 5 ou -5 considerar que são iguais
+    - as que não forem iguais guardá-las
+- as músicas que não estiverem semelhanças pesquisá-las e adicioná-las em uma play-list escolhida
+    - para cada música que não estiver semelhança entrar neste link: "https://www.youtube.com/results?search_query={NOME+DA+MUSICA}{ARTISTA}"
+    - para cada video que vier se o nome da música estiver no vídeo e o tempo for semelhante
+    - pegar um valor aleatório e descidir se irá apertar na música ou não
+    - caso não irá apertar:
+        - clickar nos 3 pontinhos
+        - clickar em salvar em uma playlist
+        - clickar na playlist que estiver com o mesmo nome que o ultilizador forneceu
+        - pegar um valor aleatório e descidir se irá apertar no x ou não
+        - caso sim:
+            - clickar no x
+        - caso não:
+            continuar para a próxima música
+    - caso irá apertar:
+        - clickar em salvar em uma playlist
+        - clickar na playlist que estiver com o mesmo nome que o ultilizador forneceu
+        - pegar um valor aleatório e descidir se irá apertar no x ou não
+        - caso sim:
+            - clickar no x
+        - caso não:
+            continuar para a próxima música
+    - esperar um número aleatório de 0.0 - 1.0 para continuar a adicionar o restante das músicas na playlist
+- fim
