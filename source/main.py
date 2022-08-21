@@ -52,8 +52,8 @@ class Spotify:
          }
 
         # User
-        self.email = "a90615338@gmail.com"
-        self.password = "MTBVM1UDN7PVYEN7VOJB"
+        self.email = ""
+        self.password = ""
 
         # Global variables
         self.songs_number = None
