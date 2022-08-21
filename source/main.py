@@ -48,18 +48,12 @@ class Spotify:
         # Urls
         self.urls = {
             "sing_in_spotify": "https://accounts.spotify.com/login?continue=https%3A%2F%2Fopen.spotify.com%2F",
-            "liked_songs_spotify": "https://open.spotify.com/collection/tracks"
+            "liked_soungs_spotify": "https://open.spotify.com/collection/tracks"
          }
 
         # User
-        self.email = "a90615338@gmail.com"
-        self.password = "MTBVM1UDN7PVYEN7VOJB"
-
-        # Global variables
-        self.songs_number = None
-        self.spotify_songs_titles = []
-        self.spotify_songs_artists = []
-        self.spotify_songs_titles_and_artists = []
+        self.email = input("Escreva seu email ou usuário do Spotify aqui: ")
+        self.password = input("Escreva sua senha do Spotify aqui: ")
 
     def Start(self):
         self.SingInSpotify()
@@ -75,15 +69,12 @@ class Spotify:
         self.Write(input_email, self.email)
 
         # Delay
-        time.sleep(random.random())
+        time.sleep(random.random() / random.randint(1, 3))
 
         # Digitando a senha
         input_password = 'input[id="login-password"]'
         self.Click(input_password)
         self.Write(input_password, self.password)
-
-        # Delay
-        time.sleep(random.random())
 
         # Clickando em entrar
         loc_login_button = 'button[id="login-button"]'
@@ -91,67 +82,33 @@ class Spotify:
 
         # Salvando informações
         self.SaveInformations(self.locate_settings, browser=self.browser,
-                              window_size_x=self.driver.get_window_size()['width'],
-                              window_size_y=self.driver.get_window_size()['height'],
-                              window_position_x=self.driver.get_window_position()["x"],
-                              window_position_y=self.driver.get_window_position()["y"],
+                              window_size_x=self.driver.get_window_size()[0],
+                              window_size_y=self.driver.get_window_size()[1],
+                              window_position_x=self.driver.get_window_position()[0],
+                              window_position_y=self.driver.get_window_position()[1],
                               )
 
         # Verificando se tudo está correto
-        try:
-            asserting = self.driver.find_element((By.CSS_SELECTOR, 'span[class="Message-sc-15vkh7g-0 jHItEP"]'))
-        except:
-            asserting = None
-        assert asserting is None, "E-mail ou senha incorreto "
+        assert self.driver.find_element((By.CSS_SELECTOR, 'span[class="Message-sc-15vkh7g-0 jHItEP"]')) is None, \
+            "E-mail ou senha incorreto"
 
     def SaveLikedSoungs(self):
-        # Delay
-        time.sleep(random.randint(1, 2))
-
         # Indo para o site das músicas favoritas
-        self.driver.get(self.urls["liked_songs_spotify"])
-
-        # Verificando se tudo está correto
-        assert str(self.driver.current_url).split()[-1] == "tracks", 'Na url está: "{}" ao invéz de "tracks"'.format(
-            str(self.driver.current_url).split()[-1])
+        self.driver.get(self.urls["liked_soungs_spotify"])
 
         # Obtendo quantidade de músicas
-        loc = (By.CSS_SELECTOR, 'span[class="Type__TypeElement-goli3j-0 jsusuc VrRwdIZO0sRX1lsWxJBe"]')
-        self.waint.until(element_to_be_clickable(loc))
-        self.songs_number = self.driver.find_elements(*loc)[-1].text
-
-        # Obtendo título das músicas
-        loc = (By.CSS_SELECTOR,
-               'div[class="Type__TypeElement-goli3j-0 gwYBEX t_yrXoUO3qGsJS4Y6iXX standalone-ellipsis-one-line"]')
-        self.spotify_songs_titles = self.driver.find_elements(*loc)
-
-        # Verificando se tudo está correto
-        assert int(self.songs_number) == len(self.spotify_songs_titles), \
-            "O número de músicas não condiz com a quantidade de títulos obtidos"
-
-        # Obtendo autores das músicas
-        loc = (By.CSS_SELECTOR,
-               'span[class="Type__TypeElement-goli3j-0 eDbSCl rq2VQ5mb9SDAFWbBIUIn standalone-ellipsis-one-line"]')
-        self.spotify_songs_artists = self.driver.find_elements(*loc)
-
-        # Verificando se tudo está correto
-        assert int(self.songs_number) == len(self.spotify_songs_artists), \
-            "O número de músicas não condiz com a quantidade de artistas obtidos"
-
-        for title in self.spotify_songs_titles:
-            for artists in self.spotify_songs_artists:
-                self.spotify_songs_titles_and_artists.append([title.text, artists.text])
+        ...
 
         # Salvando informações
         self.SaveInformations(self.locate_settings, browser=self.browser,
-                              window_size_x=self.driver.get_window_size()['width'],
-                              window_size_y=self.driver.get_window_size()['height'],
-                              window_position_x=self.driver.get_window_position()["x"],
-                              window_position_y=self.driver.get_window_position()["y"],
+                              window_size_x=self.driver.get_window_size()[0],
+                              window_size_y=self.driver.get_window_size()[1],
+                              window_position_x=self.driver.get_window_position()[0],
+                              window_position_y=self.driver.get_window_position()[1],
                               )
 
         # Verificando se tudo está correto
-        print(self.spotify_songs_titles_and_artists)
+        ...
 
     def Quit(self):
         # Salvando informações
@@ -229,4 +186,4 @@ bot.Start()
 # _Finish______________________________________________________________________________________________________________#
 
 
-# bot.Quit()
+#bot.Quit()
