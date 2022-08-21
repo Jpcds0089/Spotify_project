@@ -246,3 +246,117 @@ DevTools listening on ws://localhost:55112/devtools/browser/7652569f-60e2-449c-9
 JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.spotify.com"
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661042045336	Marionette	INFO	Stopped listening on port 55121
+1661042385163	geckodriver	INFO	Listening on 127.0.0.1:61400
+1661042388048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileq2FHIv"
+1661042389433	Marionette	INFO	Marionette enabled
+1661042389439	Marionette	INFO	Listening on port 61410
+WebDriver BiDi listening on ws://localhost:61401
+Read port: 61410
+1661042389682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileq2FHIv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61401/devtools/browser/6c84c5de-98f7-48ce-9136-08fc3e723e5d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.spotify.com"
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.2593df2d.js, line 1: HttpResponseError: 
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.2593df2d.js, line 1: HttpResponseError: 
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.2593df2d.js, line 1: HttpResponseError: 
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.2593df2d.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.2593df2d.js, line 1: PlaybackError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.2593df2d.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.2593df2d.js, line 1: PlaybackError: No supported keysystem was found.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.2593df2d.js, line 1: PlayerAPIClientError: No such device.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1661046598334	geckodriver	INFO	Listening on 127.0.0.1:61946
+1661046601214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilevM6s8X"
+1661046619078	geckodriver	INFO	Listening on 127.0.0.1:61955
+1661047225527	geckodriver	INFO	Listening on 127.0.0.1:62018
+1661047228458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileNg2kEs"
+1661047229004	Marionette	INFO	Marionette enabled
+1661047229011	Marionette	INFO	Listening on port 62028
+WebDriver BiDi listening on ws://localhost:62019
+Read port: 62028
+1661047229262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileNg2kEs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62019/devtools/browser/a8789f29-0a8d-413d-89a4-4be7e28d3e73
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.spotify.com"
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.2593df2d.js, line 1: HttpResponseError: 
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.2593df2d.js, line 1: HttpResponseError: 
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.2593df2d.js, line 1: HttpResponseError: 
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.2593df2d.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.2593df2d.js, line 1: PlaybackError: No supported keysystem was found.
+1661047687581	Marionette	INFO	Stopped listening on port 62021661047688218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62160" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilevbSZGA"
+1661047688726	Marionette	INFO	Marionette enabled
+1661047688733	Marionette	INFO	Listening on port 62171
+WebDriver BiDi listening on ws://localhost:62160
+Read port: 62171
+1661047688999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilevbSZGA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62160/devtools/browser/a9c2d291-7433-45b4-807c-9cfcfc0deee7
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1661047842358	Marionette	INFO	Stopped listening on port 62171661047844713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileZex6IA"
+1661047845209	Marionette	INFO	Marionette enabled
+1661047845215	Marionette	INFO	Listening on port 62295
+WebDriver BiDi listening on ws://localhost:62285
+Read port: 62295
+1661047845474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileZex6IA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62285/devtools/browser/aac98ed6-e77b-4201-9912-19a9f141a4a1
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: uncaught exception: XhrError
+1661047958142	Marionette	INFO	Stopped listening on port 62291661047960590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62404" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilev0wmu3"
+1661047961127	Marionette	INFO	Marionette enabled
+1661047961133	Marionette	INFO	Listening on port 62414
+WebDriver BiDi listening on ws://localhost:62404
+Read port: 62414
+1661047986324	geckodriver	INFO	Listening on 127.0.0.1:62418
+1661047989271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileK9lbfw"
+1661047989777	Marionette	INFO	Marionette enabled
+1661047989785	Marionette	INFO	Listening on port 62428
+WebDriver BiDi listening on ws://localhost:62419
+Read port: 62428
+1661047990038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileK9lbfw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62419/devtools/browser/f3f23f51-2104-4fa6-8442-97f757af0860
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1661048290448	Marionette	INFO	Stopped listening on port 62428
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1661048304266	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1661048351899	geckodriver	INFO	Listening on 127.0.0.1:62644
+1661048354823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileGdJGZz"
+1661048355387	Marionette	INFO	Marionette enabled
+1661048355394	Marionette	INFO	Listening on port 62658
+WebDriver BiDi listening on ws://localhost:62645
+Read port: 62658
+1661048355641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileGdJGZz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62645/devtools/browser/81e96f00-a4e6-46af-b6ac-3dd1c5843209
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.spotify.com"
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.2593df2d.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.2593df2d.js, line 1: PlaybackError: No supported keysystem was found.
+1661048679666	Marionette	INFO	Stopped listening on port 62658
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
