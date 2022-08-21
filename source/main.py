@@ -57,9 +57,10 @@ class Spotify:
 
         # Global variables
         self.songs_number = None
+        self.spotify_songs_times = []
         self.spotify_songs_titles = []
         self.spotify_songs_artists = []
-        self.spotify_songs_titles_and_artists = []
+        self.spotify_songs_titles_artists_and_times = []
 
     def Start(self):
         self.SingInSpotify()
@@ -112,7 +113,6 @@ class Spotify:
 
         # Indo para o site das músicas favoritas
         self.driver.get(self.urls["liked_songs_spotify"])
-
         # Verificando se tudo está correto
         assert str(self.driver.current_url).split("/")[-1] == "tracks", 'Na url está: "{}" ao invéz de "tracks"'.format(
             str(self.driver.current_url).split("/")[-1])
@@ -123,23 +123,31 @@ class Spotify:
         self.songs_number = self.driver.find_elements(*loc)[-1].text
 
         # Obtendo título das músicas
-        loc = (By.CSS_SELECTOR,'div[class="Type__TypeElement-goli3j-0 gwYBEX t_yrXoUO3qGsJS4Y6iXX standalone-ellipsis-one-line"]')
+        loc = (By.CSS_SELECTOR, 'div[class="Type__TypeElement-goli3j-0 gwYBEX t_yrXoUO3qGsJS4Y6iXX standalone-ellipsis-one-line"]')
         self.spotify_songs_titles = self.driver.find_elements(*loc)
-
         # Verificando se tudo está correto
         assert int(self.songs_number) == len(self.spotify_songs_titles), \
             "O número de músicas não condiz com a quantidade de títulos obtidos"
 
         # Obtendo autores das músicas
-        loc = (By.CSS_SELECTOR,'span[class="Type__TypeElement-goli3j-0 eDbSCl rq2VQ5mb9SDAFWbBIUIn standalone-ellipsis-one-line"]')
+        loc = (By.CSS_SELECTOR, 'span[class="Type__TypeElement-goli3j-0 eDbSCl rq2VQ5mb9SDAFWbBIUIn standalone-ellipsis-one-line"]')
         self.spotify_songs_artists = self.driver.find_elements(*loc)
-
         # Verificando se tudo está correto
         assert int(self.songs_number) == len(self.spotify_songs_artists), \
             "O número de músicas não condiz com a quantidade de artistas obtidos"
 
+        # Obtendo tempo das músicas
+        loc = (By.CSS_SELECTOR, 'div[class="Type__TypeElement-goli3j-0 eDbSCl Btg2qHSuepFGBG6X0yEN"]')
+        self.spotify_songs_times = self.driver.find_elements(*loc)
+        # Verificando se tudo está correto
+        assert int(self.songs_number) == len(self.spotify_songs_times), \
+            "O número de músicas não condiz com a quantidade de artistas obtidos"
+
+        # Adicionando as informações obtidas em uma lista
         for title in enumerate(self.spotify_songs_titles):
-            self.spotify_songs_titles_and_artists.append([title[1].text, self.spotify_songs_artists[title[0]].text])
+            self.spotify_songs_titles_artists_and_times.append([title[1].text,
+                                                                self.spotify_songs_artists[title[0]].text,
+                                                                self.spotify_songs_times[title[0]].text])
 
         # Salvando informações
         self.SaveInformations(self.locate_settings, browser=self.browser,
@@ -151,7 +159,7 @@ class Spotify:
 
         # Verificando se tudo está correto
         self.Print("A quantidade de músicas, titulos e artistas foram obtidos com sucesso", "GREEN")
-        print(Fore.GREEN + "Músicas e artistas:" + Style.RESET_ALL, self.spotify_songs_titles_and_artists)
+        print(Fore.GREEN + "Título das músicas, tempos e artistas:" + Style.RESET_ALL, self.spotify_songs_titles_artists_and_times)
 
     def Quit(self):
         # Salvando informações
