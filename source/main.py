@@ -53,7 +53,7 @@ class Spotify:
             self.browser = "Firefox"
 
         self.action_chains = ActionChains(self.driver)
-        self.wait = WebDriverWait(self.driver, 15, poll_frequency=1)
+        self.wait = WebDriverWait(self.driver, 30, poll_frequency=1)
         self.SaveInformations(self.locate_settings, browser=self.browser)
         self.driver.set_window_size(self.init_configs["window_size_x"], self.init_configs["window_size_y"])
         self.driver.set_window_rect(self.init_configs["window_position_x"], self.init_configs["window_position_y"])
@@ -64,10 +64,12 @@ class Spotify:
             "sing_in_spotify": "https://accounts.spotify.com/login?continue=https%3A%2F%2Fopen.spotify.com%2F",
             "liked_songs_spotify": "https://open.spotify.com/collection/tracks",
             "youtube": "https://www.youtube.com/",
-            'youtube_playlist': "https://www.youtube.com/playlist?list=PLsQ7y6rmfgDgv332B8q6BVL7mvjL08mvN"
+            'youtube_playlist': "",
+            'search_in_youtube': "https://www.youtube.com/results?search_query="
         }
 
         # User
+        self.play_list_title = ''
         self.spotify_email = ""
         self.spotify_password = ""
         self.youtube_email = ""
@@ -78,20 +80,22 @@ class Spotify:
         self.youtube_songs_titles_and_times = []
         self.songs_for_add_in_youtube_playlist = []
         self.spotify_songs_titles_artists_and_times = []
+        #self.songs_time_that_will_add_in_youtube_playlist = []
 
     def Start(self):
-        #self.SingInSpotify()
+        self.SingInSpotify()
         self.SaveLikedSoungs()
         self.SavePlayListSougs()
         self.Comparing()
+        self.PutSongsInPlayList()
 
     def SingInSpotify(self):
         # Entrando no site do Spotify
         self.driver.get(self.urls["spotify_website"])
 
         # Esperando site carregar
-        loc = (By.CSS_SELECTOR, 'a[class="logo WJsKJXEbycxxq8OcGHM1 active"]')
-        self.wait.until(element_to_be_clickable(loc))
+        loc = (By.CSS_SELECTOR, 'div[class="q8AZzDc_1BumBHZg0tZb"]')
+        self.wait.until(visibility_of_element_located(loc))
 
         # Vendo já se está logado
         is_logged = None
@@ -172,55 +176,36 @@ class Spotify:
         loc = (By.CSS_SELECTOR, 'span[class="Type__TypeElement-goli3j-0 cPwEdQ RANLXG3qKB61Bh33I0r2"]')
         songs_number = self.driver.find_element(*loc).text
         songs_number = songs_number.split(' ')[0]
-        self.Print("Músicas obtidas:", "GREEN")
-        print(songs_number)
 
         while True:
             # Obtendo título das músicas
-            self.Print("Obtendo título das músicas", "BLUE")
             loc = (By.CSS_SELECTOR,
                    'div[class="Type__TypeElement-goli3j-0 gwYBEX t_yrXoUO3qGsJS4Y6iXX standalone-ellipsis-one-line"]')
             spotify_songs_titles = []
             for title in self.driver.find_elements(*loc):
                 if not title in spotify_songs_titles:
                     spotify_songs_titles.append(title.text)
-            self.Print("Títulos obtidos:", "GREEN")
-            print(spotify_songs_titles)
-            self.Print("Quantidade de Títulos obtidos:", "GREEN")
-            print(len(spotify_songs_titles))
 
             # Obtendo autores das músicas
-            self.Print("Obtendo autores das músicas", "BLUE")
             loc = (By.CSS_SELECTOR,
                    'span[class="Type__TypeElement-goli3j-0 eDbSCl rq2VQ5mb9SDAFWbBIUIn standalone-ellipsis-one-line"]')
             spotify_songs_artists = []
             for artist in self.driver.find_elements(*loc):
                 if not artist in spotify_songs_artists:
                     spotify_songs_artists.append(artist.text)
-            self.Print("Artistas obtidos:", "GREEN")
-            print(spotify_songs_titles)
-            self.Print("Quantidade de Artistas obtidos:", "GREEN")
-            print(len(spotify_songs_titles))
 
             # Obtendo tempo das músicas
-            self.Print("Obtendo tempo das músicas", "BLUE")
             loc = (By.CSS_SELECTOR, 'div[class="Type__TypeElement-goli3j-0 eDbSCl Btg2qHSuepFGBG6X0yEN"]')
             spotify_songs_times = []
             for duraction in self.driver.find_elements(*loc):
                 if not duraction in spotify_songs_times:
                     spotify_songs_times.append(duraction.text)
-            self.Print("Durações obtidas:", "GREEN")
-            print(spotify_songs_times)
-            self.Print("Quantidade de Durações obtidas:", "GREEN")
-            print(len(spotify_songs_times))
 
             # Rolando a página para obter o restante das músicas
-            self.Print("Rolando a página para obter o restante das músicas", "BLUE")
             if not int(songs_number) == len(spotify_songs_titles):
                 time.sleep(random.randint(1, 3))
                 #self.driver.execute_script("window.scrollTo(0, {})".format(random.randint(50, 100)))
                 self.driver.find_element(By.CSS_SELECTOR, 'div[class="ShMHCGsT93epRGdxJp2w Ss6hr6HYpN4wjHJ9GHmi"]').send_keys(Keys.PAGE_DOWN)
-                self.Print("Página rolada\n", "GREEN")
                 time.sleep(random.randint(1, 3))
             else:
                 break
@@ -361,6 +346,7 @@ class Spotify:
     def Comparing(self):
         # Comparando se os títulos e os tempos das músicas obtidas são semelhantes
         self.Print("Comparando se os títulos e os tempos das músicas obtidas são semelhantes", "BLUE")
+        print("\n\n")
         songs_exist = []
         for songs in self.spotify_songs_titles_artists_and_times:
             for songs1 in self.youtube_songs_titles_and_times:
@@ -377,13 +363,15 @@ class Spotify:
             print("Proucurando", Fore.LIGHTMAGENTA_EX + '"{}"'.format(songs[0]) + Style.RESET_ALL, "em",
                   Fore.MAGENTA + '"{}"'.format(songs_exist) + Style.RESET_ALL)
             if not songs[0] in songs_exist:
-                self.songs_for_add_in_youtube_playlist.append(songs[0] + " " + songs[1])
-                self.Print('"{}" foi adicionada na play-list do youtube'.format(songs[0] + " " + songs[1]), "GREEN")
+                self.songs_for_add_in_youtube_playlist.append([songs[0] + " " + songs[1], songs[2]])
+                # self.songs_time_that_will_add_in_youtube_playlist.append(songs[2])
+                self.Print('"{}" foi adicionada na play-list do youtube'.format([songs[0] + " " + songs[1], songs[2]]), "GREEN")
 
         # Adicionando-as em uma lista
-        self.songs_for_add_in_youtube_playlist = list(set(self.songs_for_add_in_youtube_playlist))
+        #self.songs_for_add_in_youtube_playlist = list(set(self.songs_for_add_in_youtube_playlist))
         self.Print("Músicas que serão adicionadas na play-list do youtube:", "MAGENTA")
         print(self.songs_for_add_in_youtube_playlist)
+        print("\n\n")
 
         # Salvando informações
         self.SaveInformations(self.locate_settings, browser=self.browser,
@@ -392,6 +380,131 @@ class Spotify:
                               window_position_x=self.driver.get_window_position()["x"],
                               window_position_y=self.driver.get_window_position()["y"],
                               )
+
+    def PutSongsInPlayList(self):
+        self.Print("Tentando adicionar as músicas na play-list do youtube", "BlUE")
+        for song in enumerate(self.songs_for_add_in_youtube_playlist):
+            # Pesquisando a música que será adicionada
+            self.driver.get(self.urls["search_in_youtube"] + song[1][0].replace(" ", "+"))
+
+            # Esperando página carregar
+            loc = (By.CSS_SELECTOR, 'div[id="title-wrapper"]')
+            self.wait.until(visibility_of_element_located(loc))
+
+            song_encontred = False
+            for i in range(4):
+                # Pengado titulo
+                loc = (By.CSS_SELECTOR, 'div[id="title-wrapper"]')
+                title = self.driver.find_elements(*loc)[i].text
+
+                # Esperando página carregar
+                loc = (By.CSS_SELECTOR, 'ytd-thumbnail-overlay-time-status-renderer[class="style-scope ytd-thumbnail"]')
+                self.wait.until(visibility_of_element_located(loc))
+
+                # Obtendo duração do vídeo
+                loc = (By.CSS_SELECTOR, 'ytd-thumbnail-overlay-time-status-renderer[class="style-scope ytd-thumbnail"]')
+                duraction = self.driver.find_elements(*loc)[i].text
+
+                # Procurando semelhanças entre o título da música pesquisada com os títulos do resultado
+                title_is_similar = False
+                for song_names_part in song[1][0].split(" "):
+                    if song_names_part.lower() in title.lower() and song_names_part != " ":
+                        title_is_similar = True
+                        break
+
+                # Proucurando semelhanças entre as durações
+                duraction_is_similar = False
+                if title_is_similar:
+                    if abs(int(duraction.replace(":", "")) - int(song[1][1].replace(":", ""))) <= 5:
+                        self.Print("Música encontrada", "GREEN")
+                        duraction_is_similar = True
+
+                # Definindo se a música foi encontrada
+                if title_is_similar and duraction_is_similar:
+                    song_encontred = True
+
+                # Caso o título e duração se encaixem nos requisitos, adicioná-lo na ply-list
+                if song_encontred:
+                    # Gerando um valor aleatório para descidir se irá clickar no título ou irá direto nos 3 pontinhos
+                    value = random.randint(0, 100)
+                    value2 = random.randint(0, 100)
+                    if value >= 50:
+                        # Clickando nos 3 pontinhos
+                        loc = (By.CSS_SELECTOR, 'div[id="title-wrapper"]')
+                        self.action_chains.move_to_element_with_offset(self.driver.find_elements(*loc)[i],
+                                                                       random.randint(1, 15),
+                                                                       random.randint(1, 15)).perform()
+
+                        # Delay
+                        time.sleep(random.randint(1, 2))
+
+                        loc = (By.CSS_SELECTOR, 'ytd-menu-renderer[class="style-scope ytd-video-renderer"] > yt-icon-button[class="dropdown-trigger style-scope ytd-menu-renderer"]')
+                        self.action_chains.move_to_element_with_offset(self.driver.find_elements(*loc)[i],
+                                                                       random.randint(1, 5),
+                                                                       random.randint(1, 5)).click().perform()
+
+                        # Delay
+                        time.sleep(random.randint(1, 3))
+
+                        # Clickando em salvar na play-list
+                        loc = (By.CSS_SELECTOR, 'tp-yt-paper-item[class="style-scope ytd-menu-service-item-renderer"]')
+                        self.action_chains.move_to_element(self.driver.find_elements(*loc)[2]).click().perform()
+                        try:
+                            # Delay
+                            time.sleep(random.randint(1, 3))
+
+                            # Clickando em salvar na play-list escolhida
+                            self.Click('div[id="checkbox-label"] > yt-formatted-string[title="{}"]'.format(self.play_list_title))
+                        except NoSuchElementException:
+                            assert 1 + 1 == 3, "Provavelmente o título da play-list está incorreto"
+                        self.Print('A música "{}" acaba de ser adicionada à play-list "{}"'.format(title, self.play_list_title), "MAGENTA")
+
+                        # Clickando no x
+                        if value2 >= 50:
+                            self.Click('yt-icon-button[id="close-button"][class="style-scope ytd-add-to-playlist-renderer"]')
+                        break
+                    elif value <= 49:
+                        # Delay
+                        time.sleep(random.randint(1, 3))
+
+                        # Clickando no título do vídeo
+                        self.Click('div[id="title-wrapper"]')
+
+                        # Esperando página carregar
+                        loc = (By.CSS_SELECTOR, 'ytd-button-renderer[class="style-scope ytd-menu-renderer force-icon-'
+                                                'button style-default size-default"]')
+                        self.wait.until(visibility_of_element_located(loc))
+
+                        # Delay para o anti-bot desconfiar de forma reduzida
+                        time.sleep(random.randint(5, 15))
+
+                        # Clickando em salvar
+                        loc = (By.CSS_SELECTOR, 'ytd-button-renderer[class="style-scope ytd-menu-renderer force-icon-'
+                                                'button style-default size-default"]')
+                        self.action_chains.move_to_element(self.driver.find_elements(*loc)[-1]).click().perform()
+
+                        # Clickando em salvar na play-list escolhida
+                        try:
+                            # Delay
+                            time.sleep(random.randint(1, 3))
+
+                            self.Click('div[id="checkbox-label"] > yt-formatted-string[title="{}"]'.format(self.play_list_title))
+                        except NoSuchElementException:
+                            assert 1 + 1 == 3, "Provavelmente o título da play-list está incorreto"
+                        self.Print('A música "{}" acaba de ser adicionada à play-list "{}"'.format(title, self.play_list_title), "MAGENTA")
+
+                        # Clickando no x
+                        if value2 >= 50:
+                            # Delay
+                            time.sleep(random.randint(1, 3))
+
+                            self.Click('yt-icon-button[id="close-button"][class="style-scope ytd-add-to-playlist-renderer"]')
+                        break
+
+            if not song_encontred:
+                self.Print('A música "{}" não foi encontrada', "RED")
+
+            time.sleep(random.randint(5, 10))
 
     def Quit(self):
         # Salvando informações
@@ -415,11 +528,11 @@ class Spotify:
             alert(title='Altomação finalizada', text='A Altomação acaba de ser finalizada. Tenha uma boa noite!')
 
     def Click(self, loc_by_css_locator: str):
-        time.sleep(random.random() / random.randint(2, 3))
+        time.sleep(random.random())
         locator = (By.CSS_SELECTOR, loc_by_css_locator)
         self.wait.until(element_to_be_clickable(locator))
-        self.action_chains.move_to_element_with_offset(self.driver.find_element(*locator), random.randint(1, 10),
-                                                       random.randint(1, 10)).click().perform()
+        self.action_chains.move_to_element_with_offset(self.driver.find_element(*locator), random.randint(1, 100),
+                                                       random.randint(1, 100)).click().perform()
 
     def Write(self, loc_by_css_locator: str, text: str):
         locator = (By.CSS_SELECTOR, loc_by_css_locator)
@@ -427,7 +540,7 @@ class Spotify:
         self.driver.find_element(*locator).clear()
         for letra in text:
             self.driver.find_element(*locator).send_keys(letra)
-            time.sleep(random.random() / random.randint(1, 3))
+            time.sleep(random.random() / random.randint(1, 2))
 
     def WaintElementIsPresent(self, loc_by_css_locator: str):
         loc = (By.CSS_SELECTOR, loc_by_css_locator)
@@ -478,9 +591,8 @@ class Spotify:
 
 bot = Spotify()
 bot.Start()
-self = bot
 
 # _Finish______________________________________________________________________________________________________________#
 
 
-# bot.Quit()
+bot.Quit()

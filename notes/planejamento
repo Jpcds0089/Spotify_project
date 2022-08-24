@@ -38,7 +38,7 @@ O que fazer para cada objetivo geral (passo a passo)?
     - obter titulo de cada música
     - obter tempo de cada música
 
-- comparar as duas listas
+- comparar as duas listas -Completed
     - para cada palavra da música do spotify comparar com as palavras de todas as músicas da playlist do youtube
     - caso a comparação der positiva em alguma música guardá-las
     - pegar as musicas que foram guardadas e comparar os tamanhos
@@ -47,7 +47,7 @@ O que fazer para cada objetivo geral (passo a passo)?
 
 - as músicas que não estiverem semelhanças pesquisá-las e adicioná-las em uma play-list escolhida
     - para cada música que não estiver semelhança entrar neste link: "https://www.youtube.com/results?search_query={NOME+DA+MUSICA}{ARTISTA}"
-    - para cada video que vier se o nome da música estiver no vídeo e o tempo for semelhante
+    - para cada video que vier, se o nome da música estiver no vídeo e o tempo for semelhante
     - pegar um valor aleatório e descidir se irá apertar na música ou não
     - caso não irá apertar:
         - clickar nos 3 pontinhos
