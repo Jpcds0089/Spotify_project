@@ -4618,3 +4618,1199 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 1661357199292	Marionette	INFO	Stopped listening on port 64828
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 [Parent 17640, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661357715365	geckodriver	INFO	Listening on 127.0.0.1:65108
+1661357742358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilerpI6TE"
+1661357744206	Marionette	INFO	Marionette enabled
+1661357744217	Marionette	INFO	Listening on port 65118
+WebDriver BiDi listening on ws://localhost:65109
+Read port: 65118
+1661357744483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:65109/devtools/browser/7e14882a-b41b-49cb-8825-55ccd29167ab
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/collapser.js, line 22: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: moz-extension://1da73253-eeba-46d0-a994-feec33a19a5f/js/vapi.js, line 1: SecurityError: Permission denied to access property "vAPI" on cross-origin object
+JavaScript error: moz-extension://7326d014-1510-4261-a99f-ec8d3842c30b/inject/fallback.js, line 4: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+[2022-08-24T16:16:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-24T16:16:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-24T16:16:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-24T16:16:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661357836151	Marionette	INFO	Stopped listening on port 65118
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661382498303	geckodriver	INFO	Listening on 127.0.0.1:65080
+1661382529479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilefCZy70"
+1661382530674	Marionette	INFO	Marionette enabled
+1661382530681	Marionette	INFO	Listening on port 65106
+Read port: 65106
+WebDriver BiDi listening on ws://localhost:65081
+1661382530817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:65081/devtools/browser/03205668-16d6-4a03-bcbe-736d3a363bc9
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/utils.js, line 26: SecurityError: Permission denied to access property "injectScript" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/utils.js, line 26: SecurityError: Permission denied to access property "injectScript" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+Port.onMessage event fired while context is inactive.
+[Parent 11972, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:554
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: https://www.scdn.co/webpack/tracking.download.e475d325b27c9fe78e96.js, line 1: TypeError: e.spAnalytics.sendBeacon is not a function
+1661382611575	Marionette	INFO	Stopped listening on port 65106
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661382622247	geckodriver	INFO	Listening on 127.0.0.1:65190
+1661382649845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofiletmeTsw"
+1661382650465	Marionette	INFO	Marionette enabled
+1661382650474	Marionette	INFO	Listening on port 65201
+WebDriver BiDi listening on ws://localhost:65191
+Read port: 65201
+1661382650641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:65191/devtools/browser/a210708c-9eab-4993-b9f0-f27fd945ea8b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: moz-extension://7326d014-1510-4261-a99f-ec8d3842c30b/inject/fallback.js, line 4: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+Port.onMessage event fired while context is inactive.
+1661382786136	geckodriver	INFO	Listening on 127.0.0.1:65305
+1661382818123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65306" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilehhqdGS"
+1661382819191	Marionette	INFO	Marionette enabled
+1661382819196	Marionette	INFO	Listening on port 65332
+WebDriver BiDi listening on ws://localhost:65306
+Read port: 65332
+1661382819334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:65306/devtools/browser/44a6ec10-080a-46b0-b7e9-94d51f80e368
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: moz-extension://1da73253-eeba-46d0-a994-feec33a19a5f/js/vapi.js, line 1: SecurityError: Permission denied to access property "vAPI" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+[Parent 10140, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:554
+[Parent 10140, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:554
+[2022-08-24T23:14:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-24T23:14:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-24T23:14:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-24T23:14:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 68"  data: no] undefined 68
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:68:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:538:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:74:9
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:538:36
+]]
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://1da73253-eeba-46d0-a994-feec33a19a5f/js/vapi.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://7326d014-1510-4261-a99f-ec8d3842c30b/inject/fallback.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/clobbercookie.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/clobberlocalstorage.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/dnt.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/fingerprinting.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/floc.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/supercookie.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/clobbercookie.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/clobberlocalstorage.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/dnt.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/fingerprinting.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/floc.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/supercookie.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://c46ac119-b95f-4840-a849-182aec8bc0cd/injections/js/bug1772949-youtube-webshare-shim.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://1da73253-eeba-46d0-a994-feec33a19a5f/js/vapi.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://7326d014-1510-4261-a99f-ec8d3842c30b/inject/fallback.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://1da73253-eeba-46d0-a994-feec33a19a5f/js/vapi.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://7326d014-1510-4261-a99f-ec8d3842c30b/inject/fallback.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/clobbercookie.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/clobberlocalstorage.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/dnt.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/fingerprinting.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/floc.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/supercookie.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/clobbercookie.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/clobberlocalstorage.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/dnt.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/fingerprinting.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/floc.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://809a756b-6f2a-419d-bce5-aef298723070/js/contentscripts/supercookie.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://c46ac119-b95f-4840-a849-182aec8bc0cd/injections/js/bug1772949-youtube-webshare-shim.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://1da73253-eeba-46d0-a994-feec33a19a5f/js/vapi.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'moz-extension://7326d014-1510-4261-a99f-ec8d3842c30b/inject/fallback.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661383322087	Marionette	INFO	Stopped listening on port 65332
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661388782921	geckodriver	INFO	Listening on 127.0.0.1:58702
+1661388785694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilerHnVfq"
+1661388787848	Marionette	INFO	Marionette enabled
+1661388787865	Marionette	INFO	Listening on port 58744
+WebDriver BiDi listening on ws://localhost:58703
+Read port: 58744
+1661388788478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilerHnVfq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58703/devtools/browser/3a98391d-b7e9-4593-9384-e65ca77bfd31
+1661388793884	Marionette	INFO	Stopped listening on port 58744
+1661388817032	geckodriver	INFO	Listening on 127.0.0.1:58878
+1661388819840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileDXU1V3"
+1661388820483	Marionette	INFO	Marionette enabled
+1661388820490	Marionette	INFO	Listening on port 58900
+WebDriver BiDi listening on ws://localhost:58879
+Read port: 58900
+1661388820746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileDXU1V3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58879/devtools/browser/a20bf7a3-8c5c-4755-8465-f80d4188f05b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1661388940707	Marionette	INFO	Stopped listening on port 58901661388942416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59520" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilei7vOdJ"
+1661388942933	Marionette	INFO	Marionette enabled
+1661388942938	Marionette	INFO	Listening on port 59545
+WebDriver BiDi listening on ws://localhost:59520
+Read port: 59545
+1661388943177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilei7vOdJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59520/devtools/browser/010db9cc-a7d6-48e7-a843-328f172b7e55
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1661388996891	Marionette	INFO	Stopped listening on port 59545
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661389005522	geckodriver	INFO	Listening on 127.0.0.1:59868
+1661389008320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilegOuNmb"
+1661389008919	Marionette	INFO	Marionette enabled
+1661389008926	Marionette	INFO	Listening on port 59894
+WebDriver BiDi listening on ws://localhost:59869
+Read port: 59894
+1661389009192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilegOuNmb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59869/devtools/browser/d763f203-56d7-4693-b49e-d32d11e36587
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: PlaybackError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: PlayerAPIClientError: No such device.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: DUPLICATE_REQUEST_ERROR: DUPLICATE_REQUEST_ERROR: Already sent this request (GET::https://api.spotify.com/v1/me/tracks/contains::{"ids":"4yIDvJplo4AKk1ElUE2Hna,3HlO7MVMWkyFu9EaBPnNZm,5mG4eogIWKxsIAo9B7J88h,3YzZqhfVXfBfXw15kaUPa8,0Fz5cDrOuhiTDEuQGETSCR,1lZzSazGYX6TvrA5zKSODE,13tPvoX9a9We39KD633p4D,6EI1x8SQH4dlHe1aqz1wO4,1U63hvJOAtgV2Gnx81TxzC,6B0knTFWUYBsDCEHbIiopP,47qwNqHieDUsTDCHoP9fJk,0OKztL2S0xKVZtBlUNNXRA,3WLyk9WnfNADqHLQn8wBZi,2oPXdZlDqQYCmJgcvrTmt0,4jrTmwxwsFH2sAyt4b9f9W,2IoczT95NjXXd7c8gd2xyB,4eaXSrScP9VdnF4G0KaeDh,5yud3Q1dK25pAniHBhHRtl,5dIYNYIsjyXVCSvwqWeeRW"})
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: PlaybackError: No supported keysystem was found.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: PlaybackError: No supported keysystem was found.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661389990986	Marionette	INFO	Stopped listening on port 59894
+[Parent 6212, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661389997466	geckodriver	INFO	Listening on 127.0.0.1:61300
+1661390000267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileAronwu"
+1661390001042	Marionette	INFO	Marionette enabled
+1661390001052	Marionette	INFO	Listening on port 61313
+WebDriver BiDi listening on ws://localhost:61301
+Read port: 61313
+1661390001402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileAronwu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61301/devtools/browser/60959780-1635-4237-b173-8db6fd494c9d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661391140627	Marionette	INFO	Stopped listening on port 61313
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62222" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilekrDjNE"
+1661391026950	Marionette	INFO	Marionette enabled
+1661391026957	Marionette	INFO	Listening on port 62232
+WebDriver BiDi listening on ws://localhost:62222
+Read port: 62232
+1661391027225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilekrDjNE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62222/devtools/browser/98a0b0f4-80aa-45fc-aca7-f1d63e617a02
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: PlaybackError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: PlaybackError: No supported keysystem was found.
+[2022-08-25T01:41:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T01:41:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T01:41:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T01:41:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1240814896%3A1661391665287944&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dpt%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%253Fhl%253Dpt&ec=65620&hl=pt-BR&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQN2RmXpkTt9C31dQiRK5lBdvGR4LRNA2OkBXDx9LOp4jXmxE7-FJsMIu9IUHLxSy8dH1YfZbJJcDg line 704 > injectedScript line 2 > eval line 6564 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661391698731	Marionette	INFO	Stopped listening on port 62232
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661392154351	geckodriver	INFO	Listening on 127.0.0.1:62685
+1661392158163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62686" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileRqJcxs"
+1661392158506	Marionette	INFO	Marionette enabled
+1661392158513	Marionette	INFO	Listening on port 62693
+WebDriver BiDi listening on ws://localhost:62686
+Read port: 62693
+1661392158773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:62686/devtools/browser/8048cb35-9384-4aa5-8426-d7fe828c0593
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: PlaybackError: No supported keysystem was found.
+[2022-08-25T01:55:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T01:55:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T01:55:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T01:55:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T01:55:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T01:55:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T01:55:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T01:55:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661392556803	Marionette	INFO	Stopped listening on port 62693
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661392572384	geckodriver	INFO	Listening on 127.0.0.1:62883
+1661392576238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62884" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilesi8298"
+1661392576700	Marionette	INFO	Marionette enabled
+1661392576706	Marionette	INFO	Listening on port 62891
+WebDriver BiDi listening on ws://localhost:62884
+Read port: 62891
+1661392576954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:62884/devtools/browser/705ac58d-611f-416a-9e2c-b757e968d94b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1661392706156	Marionette	INFO	Stopped listening on port 62891
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661392714616	geckodriver	INFO	Listening on 127.0.0.1:63016
+1661392718573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileW6d2ri"
+1661392718908	Marionette	INFO	Marionette enabled
+1661392718914	Marionette	INFO	Listening on port 63024
+WebDriver BiDi listening on ws://localhost:63017
+Read port: 63024
+1661392719157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:63017/devtools/browser/161a8f36-fef3-4344-a59d-a59822547149
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: PlaybackError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.1b308293.js, line 1: PlaybackError: No supported keysystem was found.
+1661393268556	Marionette	INFO	Stopped listening on port 63024
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661393282307	geckodriver	INFO	Listening on 127.0.0.1:63224
+1661393286295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileXID50F"
+1661393286641	Marionette	INFO	Marionette enabled
+1661393286647	Marionette	INFO	Listening on port 63233
+WebDriver BiDi listening on ws://localhost:63225
+Read port: 63233
+1661393286902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:63225/devtools/browser/3be1301c-ced1-4286-b45f-b1472295dcbd
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.7067b292.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.7067b292.js, line 1: PlaybackError: No supported keysystem was found.
+1661393512305	Marionette	INFO	Stopped listening on port 63233
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661393550469	geckodriver	INFO	Listening on 127.0.0.1:63383
+1661393554399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63384" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofiled1oFn5"
+1661393554736	Marionette	INFO	Marionette enabled
+1661393554742	Marionette	INFO	Listening on port 63394
+WebDriver BiDi listening on ws://localhost:63384
+Read port: 63394
+1661393554991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:63384/devtools/browser/eeacf9ab-7870-4c3a-994a-052b00e123c5
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661393595220	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.7067b292.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.7067b292.js, line 1: PlaybackError: No supported keysystem was found.
+1661393824145	Marionette	INFO	Stopped listening on port 63391661393826768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63526" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileegzMXY"
+1661393827093	Marionette	INFO	Marionette enabled
+1661393827100	Marionette	INFO	Listening on port 63533
+WebDriver BiDi listening on ws://localhost:63526
+Read port: 63533
+1661393827447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:63526/devtools/browser/d388bd9c-63a8-472c-8689-2b74d3371644
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+[2022-08-25T02:18:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T02:18:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T02:18:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T02:18:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-16758858%3A1661393937814523&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&ec=65620&hl=en&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQN2RmWux_-JYtWEFmosim2-t7rw_IPti6v8Q9Z8HSSjXMh5goAZiSsF1bfbITcp3Mi-MUc_sIVAbw line 704 > injectedScript line 2 > eval line 5019 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-08-25T02:19:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T02:19:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T02:19:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T02:19:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661394136172	Marionette	INFO	Stopped listening on port 63533
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661433197217	geckodriver	INFO	Listening on 127.0.0.1:64542
+1661433201266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilejyBfoh"
+1661433201751	Marionette	INFO	Marionette enabled
+1661433201767	Marionette	INFO	Listening on port 64550
+WebDriver BiDi listening on ws://localhost:64543
+Read port: 64550
+1661433202170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:64543/devtools/browser/8008daaa-1341-458a-b2f4-398e84143802
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+[2022-08-25T13:16:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T13:16:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T13:16:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T13:16:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 160: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2081084284%3A1661433410008595&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&ec=65620&hl=en&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQN2RmUrJO1yb4JtTuB-EgeJyjGfm-NaUJndTS2sq-q57f1PLflYJCXaeQ5r1J90KXHDOLAscRKA line 704 > injectedScript line 2 > eval line 1918 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2081084284%3A1661433410008595&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&ec=65620&hl=en&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQN2RmUrJO1yb4JtTuB-EgeJyjGfm-NaUJndTS2sq-q57f1PLflYJCXaeQ5r1J90KXHDOLAscRKA line 704 > injectedScript line 2 > eval line 1918 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661433646647	Marionette	INFO	Stopped listening on port 64550
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661434066165	geckodriver	INFO	Listening on 127.0.0.1:64871
+1661434070400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64872" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilefNAIbs"
+1661434070695	Marionette	INFO	Marionette enabled
+1661434070701	Marionette	INFO	Listening on port 64882
+WebDriver BiDi listening on ws://localhost:64872
+Read port: 64882
+1661434070925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:64872/devtools/browser/ad6b4099-958c-4ebb-ab19-a9603777818b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1661434120710	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1661447455760	Marionette	INFO	Stopped listening on port 64882
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661447489227	geckodriver	INFO	Listening on 127.0.0.1:50230
+1661447494108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileZ8mcLw"
+1661447495573	Marionette	INFO	Marionette enabled
+1661447495580	Marionette	INFO	Listening on port 50238
+WebDriver BiDi listening on ws://localhost:50231
+Read port: 50238
+1661447495871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:50231/devtools/browser/6a65d496-d5ce-4e91-9cfb-9272a1a80da1
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileZ8mcLw\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+1661447529727	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.81fc8aee.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.81fc8aee.js, line 1: PlaybackError: No supported keysystem was found.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileZ8mcLw\thumbnails) because it does not exist
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.0eb491d1.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.0eb491d1.js, line 1: PlaybackError: No supported keysystem was found.
+[2022-08-25T18:43:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-25T18:43:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 24224, MediaDecoderStateMachine #1] WARNING: Decoder=1cfd7f3d100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 24224, MediaDecoderStateMachine #1] WARNING: Decoder=1cfd7f3d100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[2022-08-25T18:43:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661453096921	Marionette	INFO	Stopped listening on port 50238
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661453118869	geckodriver	INFO	Listening on 127.0.0.1:50627
+1661453123056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50628" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileAl1WmD"
+1661453123528	Marionette	INFO	Marionette enabled
+1661453123534	Marionette	INFO	Listening on port 50636
+WebDriver BiDi listening on ws://localhost:50628
+Read port: 50636
+1661453123755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:50628/devtools/browser/31b1714d-8059-4473-a05e-46e6f081a3e8
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileAl1WmD\thumbnails) because it does not exist
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+1661453404844	Marionette	INFO	Stopped listening on port 50631661453408033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50780" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilegeUypP"
+1661453408358	Marionette	INFO	Marionette enabled
+1661453408365	Marionette	INFO	Listening on port 50787
+WebDriver BiDi listening on ws://localhost:50780
+Read port: 50787
+1661453408611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:50780/devtools/browser/135be314-e27a-4243-87f0-917faba201af
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilegeUypP\thumbnails) because it does not exist
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.0eb491d1.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.0eb491d1.js, line 1: PlaybackError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.0eb491d1.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.0eb491d1.js, line 1: PlaybackError: No supported keysystem was found.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilegeUypP\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilegeUypP\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilegeUypP\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilegeUypP\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilegeUypP\thumbnails) because it does not exist
+1661473204119	Marionette	INFO	Stopped listening on port 50787
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661473226096	geckodriver	INFO	Listening on 127.0.0.1:57575
+1661473230341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57576" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileSGI8aO"
+1661473232168	Marionette	INFO	Marionette enabled
+1661473232174	Marionette	INFO	Listening on port 57583
+WebDriver BiDi listening on ws://localhost:57576
+Read port: 57583
+1661473232430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:57576/devtools/browser/2b92c8df-e0cd-48ed-8922-eb7a9f617f17
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileSGI8aO\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.7925975e.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.7925975e.js, line 1: PlaybackError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.7925975e.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.7925975e.js, line 1: PlaybackError: No supported keysystem was found.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.7925975e.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.7925975e.js, line 1: PlaybackError: No supported keysystem was found.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Unable to find target with innerWindowId:4294967379"
+console.error: "Unable to find target with innerWindowId:4294967379"
+console.error: "Unable to find target with innerWindowId:4294967379"
+console.error: "Unable to find target with innerWindowId:4294967379"
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.7925975e.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.7925975e.js, line 1: PlaybackError: No supported keysystem was found.
+1661475196752	Marionette	INFO	Stopped listening on port 57583
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661516165120	geckodriver	INFO	Listening on 127.0.0.1:49591
+1661516169644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofile2yhugi"
+1661516171382	Marionette	INFO	Marionette enabled
+1661516171394	Marionette	INFO	Listening on port 49599
+WebDriver BiDi listening on ws://localhost:49592
+Read port: 49599
+1661516172673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:49592/devtools/browser/a162511d-7698-4644-a55b-1b39bfd34f66
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofile2yhugi\thumbnails) because it does not exist
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: https://open.spotifycdn.com/cdn/js/retargeting-pixels.940b191f.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.301dd7dc.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.301dd7dc.js, line 1: PlaybackError: No supported keysystem was found.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofile2yhugi\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.301dd7dc.js, line 1: DUPLICATE_REQUEST_ERROR: DUPLICATE_REQUEST_ERROR: Already sent this request (GET::https://api.spotify.com/v1/me/tracks/contains::{"ids":"7aDtncONHeoXQqZoieo1rE,3YzZqhfVXfBfXw15kaUPa8,5mG4eogIWKxsIAo9B7J88h,0Fz5cDrOuhiTDEuQGETSCR,1lZzSazGYX6TvrA5zKSODE,13tPvoX9a9We39KD633p4D,1U63hvJOAtgV2Gnx81TxzC,6EI1x8SQH4dlHe1aqz1wO4,47qwNqHieDUsTDCHoP9fJk,6B0knTFWUYBsDCEHbIiopP,0OKztL2S0xKVZtBlUNNXRA,4yyPUA0R3jFJmO8Ax8kjoJ,74b8OCNOdqFnuyXfmL2fRg,6z6ZmjqANd9t0bbbLrn4y2,4D2pxxPpgyJdowXmebsXKs,0Y2EhhpZTKChZNerxIt6T9,5QwAnSeke0bpFkQqnbCTrc,48k7lAQQIre9mbyfTqzClq,1RcCk9sbNchuvsYKIsXBmr,20B6TGlDNVxAuePZKx6b6p,0CQesOmr7FgfFNYRHbadbU"})
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.18ab18a3.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.18ab18a3.js, line 1: PlaybackError: No supported keysystem was found.
+[2022-08-26T14:00:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:00:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:00:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:00:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-26T14:03:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:03:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:03:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:03:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.error: "Unable to find target with innerWindowId:4294967358"
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967369/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967369/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 107: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967369/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:293:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[2022-08-26T14:13:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:13:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:13:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:13:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661523281293	Marionette	INFO	Stopped listening on port 49599
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661523308317	geckodriver	INFO	Listening on 127.0.0.1:51689
+1661523312417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofile1O3rc2"
+1661523312874	Marionette	INFO	Marionette enabled
+1661523312881	Marionette	INFO	Listening on port 51697
+WebDriver BiDi listening on ws://localhost:51690
+Read port: 51697
+1661523313122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:51690/devtools/browser/dff9917a-ddba-417b-8850-f0cce38ca72a
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofile1O3rc2\thumbnails) because it does not exist
+[2022-08-26T14:16:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:16:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:16:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:16:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:16:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:16:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:16:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:16:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/X5Wcp9Ugq7sZToVDu26YRTjm5OYazRuFrO0o8wz5lEo.js line 2 > eval line 5788 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/X5Wcp9Ugq7sZToVDu26YRTjm5OYazRuFrO0o8wz5lEo.js line 2 > eval line 5506 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-08-26T14:16:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:16:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:16:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:16:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:25:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:25:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:25:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:25:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: "Unable to find target with innerWindowId:4294967335"
+[2022-08-26T14:32:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:32:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:32:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:32:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3439: TypeError: data.frameData.id is null
+1661524394283	geckodriver	INFO	Listening on 127.0.0.1:51858
+1661524398270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51859" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilekL1V0b"
+1661524398753	Marionette	INFO	Marionette enabled
+1661524398759	Marionette	INFO	Listening on port 51866
+WebDriver BiDi listening on ws://localhost:51859
+Read port: 51866
+1661524399002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:51859/devtools/browser/e6a4bf2a-9e47-4930-9a59-a719346e22de
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilekL1V0b\thumbnails) because it does not exist
+[2022-08-26T14:33:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:33:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:33:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:33:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[2022-08-26T14:39:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:39:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:39:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:39:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:41:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:41:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:41:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:41:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661525157937	geckodriver	INFO	Listening on 127.0.0.1:52006
+1661525162104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileEk0gel"
+1661525162420	Marionette	INFO	Marionette enabled
+1661525162430	Marionette	INFO	Listening on port 52014
+WebDriver BiDi listening on ws://localhost:52007
+Read port: 52014
+1661525162663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:52007/devtools/browser/1039b9b6-8c21-4fd2-b44b-81eedd9e467e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileEk0gel\thumbnails) because it does not exist
+1661525206172	Marionette	INFO	Stopped listening on port 52014
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661525273512	geckodriver	INFO	Listening on 127.0.0.1:52161
+1661525277618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52162" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilefC2Egi"
+1661525278047	Marionette	INFO	Marionette enabled
+1661525278053	Marionette	INFO	Listening on port 52169
+WebDriver BiDi listening on ws://localhost:52162
+Read port: 52169
+1661525278287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:52162/devtools/browser/10227f0b-54bd-4631-bcce-4bdbbc5e1a59
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilefC2Egi\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661525314374	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-08-26T14:49:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:49:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:49:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:49:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-26T14:50:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:50:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:50:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:50:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661525476625	Marionette	INFO	Stopped listening on port 52169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661525476959	geckodriver	INFO	Listening on 127.0.0.1:52354
+1661525480916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52355" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileI3SwRW"
+1661525481247	Marionette	INFO	Marionette enabled
+1661525481253	Marionette	INFO	Listening on port 52362
+WebDriver BiDi listening on ws://localhost:52355
+Read port: 52362
+1661525481482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:52355/devtools/browser/b0a43c7a-a667-400b-a681-434a1458bd6e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileI3SwRW\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661525514102	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-08-26T14:52:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:52:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:52:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:52:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:55:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:55:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:55:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:55:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-26T14:58:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:58:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:58:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:58:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:58:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:58:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:58:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T14:58:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/X5Wcp9Ugq7sZToVDu26YRTjm5OYazRuFrO0o8wz5lEo.js line 2 > eval line 3251 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/X5Wcp9Ugq7sZToVDu26YRTjm5OYazRuFrO0o8wz5lEo.js line 2 > eval line 4220 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/X5Wcp9Ugq7sZToVDu26YRTjm5OYazRuFrO0o8wz5lEo.js line 2 > eval line 3444 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-08-26T15:03:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:03:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:03:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:03:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1661526543440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52652" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilehks8lh"
+1661526543917	Marionette	INFO	Marionette enabled
+1661526543923	Marionette	INFO	Listening on port 52660
+WebDriver BiDi listening on ws://localhost:52652
+Read port: 52660
+1661526544170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:52652/devtools/browser/1be3d58c-622b-4ae2-a965-fcf81108361f
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1661526564664	Marionette	INFO	Stopped listening on port 52660
+1661526593653	geckodriver	INFO	Listening on 127.0.0.1:52769
+1661526597848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52770" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileOSWiod"
+1661526598172	Marionette	INFO	Marionette enabled
+1661526598178	Marionette	INFO	Listening on port 52777
+WebDriver BiDi listening on ws://localhost:52770
+Read port: 52777
+1661526598461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:52770/devtools/browser/fac57797-ea95-459b-b9a0-c44a06af4a53
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileOSWiod\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+[2022-08-26T15:11:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:11:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:11:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:11:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:11:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:11:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:11:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:11:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:11:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:11:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:11:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:11:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-26T15:11:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:11:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:11:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:11:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:12:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:12:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:12:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:12:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:12:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:12:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:12:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:12:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:13:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:13:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:13:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:13:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:13:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:13:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:13:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:13:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:14:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:14:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:14:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:14:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:14:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:14:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:14:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:14:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:14:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:14:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:14:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:14:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:15:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:15:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:15:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:15:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:15:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:15:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:15:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:15:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:16:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:16:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:16:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:16:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:16:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:16:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:16:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:16:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:16:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:16:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:16:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:16:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:17:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:17:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:17:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:17:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:17:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:17:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:17:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:17:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:17:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:17:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:17:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:17:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:18:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:18:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:18:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:18:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:18:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:18:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:18:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:18:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:19:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:19:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:19:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:19:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:19:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:19:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:19:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:19:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:19:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:19:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:19:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:19:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:20:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:20:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:20:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:20:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:20:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:20:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:20:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:20:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:21:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:21:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:21:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:21:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:21:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:21:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:21:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:21:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:21:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:21:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:21:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:21:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:22:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:22:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:22:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:22:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
