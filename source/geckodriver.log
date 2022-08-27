@@ -5814,3 +5814,1902 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 [2022-08-26T15:22:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
 [2022-08-26T15:22:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
 [2022-08-26T15:22:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:22:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:22:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:22:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:22:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:23:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:23:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:23:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:23:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:23:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:23:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:23:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:23:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:23:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:23:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:23:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:23:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:24:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:24:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:24:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:24:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:24:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:24:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:24:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:24:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:24:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:24:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:24:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:25:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:25:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:25:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:25:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:25:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:25:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:25:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:25:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:25:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:26:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:26:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:26:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:26:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:26:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:26:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:26:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:26:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:26:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:26:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:26:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:26:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:27:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:27:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:27:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:27:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:27:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:27:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:27:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:27:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:28:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:28:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:28:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:28:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:28:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:28:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:28:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:28:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:29:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:29:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:29:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:29:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:29:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:29:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:29:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:29:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:29:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:29:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:29:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:29:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:30:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:30:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:30:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:30:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:30:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:30:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:30:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:30:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:31:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:31:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:31:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:31:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:31:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:31:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:31:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:31:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:54:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:54:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:54:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T15:54:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.d75d857d.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.d75d857d.js, line 1: PlaybackError: No supported keysystem was found.
+1661529828355	Marionette	INFO	Stopped listening on port 52777
+1661529841900	geckodriver	INFO	Listening on 127.0.0.1:53228
+1661529846086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53229" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilebrYACI"
+1661529846718	Marionette	INFO	Marionette enabled
+1661529846724	Marionette	INFO	Listening on port 53236
+WebDriver BiDi listening on ws://localhost:53229
+Read port: 53236
+1661529847018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:53229/devtools/browser/a292b656-1e3c-455a-b74f-b3fa9773d3f2
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilebrYACI\thumbnails) because it does not exist
+[2022-08-26T16:04:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:04:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:04:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:04:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:04:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:04:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:04:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:04:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661530021691	Marionette	INFO	Stopped listening on port 53236
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661530075486	geckodriver	INFO	Listening on 127.0.0.1:53292
+1661530079630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilepz5TaR"
+1661530080006	Marionette	INFO	Marionette enabled
+1661530080012	Marionette	INFO	Listening on port 53300
+WebDriver BiDi listening on ws://localhost:53293
+Read port: 53300
+1661530080244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:53293/devtools/browser/b0c14d93-16e9-4efb-9f31-2a44b724b200
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilepz5TaR\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+[2022-08-26T16:09:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:09:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:09:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:09:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:13:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:13:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:13:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:13:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:14:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:14:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:14:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:14:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:14:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:14:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:14:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:14:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1661531517807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileGj5VB0"
+1661531518757	Marionette	INFO	Marionette enabled
+1661531518766	Marionette	INFO	Listening on port 53540
+WebDriver BiDi listening on ws://localhost:53533
+Read port: 53540
+1661531519026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:53533/devtools/browser/ce49fa68-09d6-43d1-aff6-1fc50b099fdf
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1661531522640	Marionette	INFO	Stopped listening on port 53540
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1661531535317	geckodriver	INFO	Listening on 127.0.0.1:53574
+1661531539344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileQbFCgh"
+1661531539664	Marionette	INFO	Marionette enabled
+1661531539670	Marionette	INFO	Listening on port 53582
+WebDriver BiDi listening on ws://localhost:53575
+Read port: 53582
+1661531539899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:53575/devtools/browser/e39c8e9a-3e8c-4ac0-8cd4-229bc5d659b7
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileQbFCgh\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661531572496	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-08-26T16:33:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:33:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:33:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:33:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:45:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:45:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:45:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:45:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661532439706	Marionette	INFO	Stopped listening on port 53582
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661532442726	geckodriver	INFO	Listening on 127.0.0.1:53800
+1661532446913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilevoANql"
+1661532447238	Marionette	INFO	Marionette enabled
+1661532447245	Marionette	INFO	Listening on port 53808
+WebDriver BiDi listening on ws://localhost:53801
+Read port: 53808
+1661532447501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:53801/devtools/browser/78dc9127-fda9-4fd5-9f2c-9b5c1d7fbede
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilevoANql\thumbnails) because it does not exist
+1661532497376	Marionette	INFO	Stopped listening on port 53808
+1661532499404	geckodriver	INFO	Listening on 127.0.0.1:53920
+1661532503509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilemoJUgu"
+1661532503849	Marionette	INFO	Marionette enabled
+1661532503855	Marionette	INFO	Listening on port 53928
+WebDriver BiDi listening on ws://localhost:53921
+Read port: 53928
+1661532504088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:53921/devtools/browser/f33a53c6-9654-4686-9bdf-b03d3ae6b521
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilemoJUgu\thumbnails) because it does not exist
+1661532564420	Marionette	INFO	Stopped listening on port 53921661532566569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileqdhK90"
+1661532566890	Marionette	INFO	Marionette enabled
+1661532566896	Marionette	INFO	Listening on port 54038
+WebDriver BiDi listening on ws://localhost:54031
+Read port: 54038
+1661532567194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:54031/devtools/browser/3703fc11-90e3-4090-adff-1a223ca279ce
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileqdhK90\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661532599191	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-08-26T16:50:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:50:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:50:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T16:50:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661533434171	geckodriver	INFO	Listening on 127.0.0.1:54235
+1661533447674	geckodriver	INFO	Listening on 127.0.0.1:54242
+1661533451747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofile6Qw6AA"
+1661533452085	Marionette	INFO	Marionette enabled
+1661533452091	Marionette	INFO	Listening on port 54250
+WebDriver BiDi listening on ws://localhost:54243
+Read port: 54250
+1661533452337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:54243/devtools/browser/03641535-610f-4bf1-81ac-4777d1553aac
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofile6Qw6AA\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661533484434	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-08-26T17:05:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:05:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:05:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:05:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661533775041	Marionette	INFO	Stopped listening on port 54250
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14032, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661533793032	geckodriver	INFO	Listening on 127.0.0.1:54415
+1661533797052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54416" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofile7ydJQ1"
+1661533797379	Marionette	INFO	Marionette enabled
+1661533797387	Marionette	INFO	Listening on port 54423
+WebDriver BiDi listening on ws://localhost:54416
+Read port: 54423
+1661533797624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:54416/devtools/browser/398ca687-cd1b-4d2b-97f7-90a7fbe22490
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofile7ydJQ1\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661533830944	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-08-26T17:11:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:11:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:11:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:11:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:11:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:11:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:11:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:11:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:11:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:11:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:11:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:11:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-26T17:12:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:12:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:12:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:12:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:12:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:12:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:12:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:12:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:13:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:13:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:13:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:13:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:13:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:13:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:13:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:13:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:13:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:13:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:13:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:13:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:14:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:14:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:14:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:14:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:14:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:14:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:14:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:14:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:15:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:15:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:15:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:15:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:15:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:15:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:15:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:15:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:15:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:15:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:15:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:15:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:16:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:16:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:16:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:16:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:16:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:16:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:16:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:16:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:17:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:17:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:17:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:17:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:17:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:17:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:17:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:17:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:17:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:17:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:17:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:17:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:18:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:18:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:18:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:18:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:18:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:18:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:18:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:18:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:18:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:18:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:18:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:18:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:19:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:19:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:19:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:19:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:19:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:19:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:19:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:20:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:20:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:20:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:20:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:20:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:20:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:20:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:20:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:20:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:20:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:20:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:20:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:21:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:21:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:21:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:21:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:21:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:21:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:21:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:21:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:22:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:22:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:22:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:22:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:22:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:22:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:22:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:22:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:23:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:23:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:23:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:23:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:23:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:23:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:23:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:23:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:23:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:23:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:23:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:23:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:24:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:24:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:24:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:24:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:24:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:24:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:24:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:24:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661534731728	Marionette	INFO	Stopped listening on port 54423
+[Parent 604, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 604, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661534737019	geckodriver	INFO	Listening on 127.0.0.1:54596
+1661534740920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileebU5sD"
+1661534741316	Marionette	INFO	Marionette enabled
+1661534741322	Marionette	INFO	Listening on port 54604
+WebDriver BiDi listening on ws://localhost:54597
+Read port: 54604
+1661534741552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:54597/devtools/browser/4de30604-8f7a-422b-b308-8eda168a8481
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileebU5sD\thumbnails) because it does not exist
+[2022-08-26T17:35:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:35:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:35:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:35:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/X5Wcp9Ugq7sZToVDu26YRTjm5OYazRuFrO0o8wz5lEo.js line 2 > eval line 7027 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661535392554	Marionette	INFO	Stopped listening on port 54604
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661535822938	geckodriver	INFO	Listening on 127.0.0.1:54792
+1661535826966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilehxZwby"
+1661535827310	Marionette	INFO	Marionette enabled
+1661535827316	Marionette	INFO	Listening on port 54801
+WebDriver BiDi listening on ws://localhost:54793
+Read port: 54801
+1661535827554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:54793/devtools/browser/b541ad24-b4cb-47fb-948b-b3b75ed87f62
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilehxZwby\thumbnails) because it does not exist
+[2022-08-26T17:44:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:44:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:44:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:44:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:45:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:45:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:45:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:45:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:45:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:45:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:45:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:45:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-26T17:46:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:46:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:46:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:46:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:46:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:46:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:46:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:46:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:47:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:47:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:47:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:47:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:47:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:47:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:47:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:47:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:47:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:47:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:47:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:47:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:48:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:48:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:48:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:48:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:48:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:48:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:48:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:48:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:48:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:48:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:48:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:48:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:49:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:49:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:49:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:49:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:49:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:49:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:49:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:49:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:49:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:49:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:49:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:49:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:50:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:50:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:50:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:50:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:50:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:50:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:50:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:50:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:51:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:51:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:51:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:51:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:51:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:51:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:51:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:51:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:52:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:52:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:52:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:52:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:52:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:52:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:52:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:52:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:52:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:52:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:52:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:52:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:53:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:53:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:53:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:53:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:53:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:53:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:53:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:53:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:54:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:54:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:54:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:54:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:54:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:54:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:54:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:54:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:55:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:55:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:55:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:55:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:55:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:55:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:55:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:55:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:55:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:55:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:55:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:55:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:56:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:56:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:56:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:56:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:56:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:56:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:56:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:56:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:57:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:57:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:57:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:57:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:57:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:57:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:57:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:57:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:58:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:58:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:58:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T17:58:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661536718433	Marionette	INFO	Stopped listening on port 54801
+[Parent 11556, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661537490903	geckodriver	INFO	Listening on 127.0.0.1:55040
+1661537495560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileBfbtsO"
+1661537495969	Marionette	INFO	Marionette enabled
+1661537495975	Marionette	INFO	Listening on port 55048
+WebDriver BiDi listening on ws://localhost:55041
+Read port: 55048
+1661537496214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:55041/devtools/browser/a978c594-b47e-42f2-855d-2697362a08e3
+[2022-08-26T18:11:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T18:11:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T18:11:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T18:11:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/X5Wcp9Ugq7sZToVDu26YRTjm5OYazRuFrO0o8wz5lEo.js line 2 > eval line 962 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileBfbtsO\thumbnails) because it does not exist
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hd9qiIGAqjescZkeItwy2wgAtCffeqilIyGkY3Q_MTc.js line 2 > eval line 792 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hd9qiIGAqjescZkeItwy2wgAtCffeqilIyGkY3Q_MTc.js line 2 > eval line 5367 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileBfbtsO\thumbnails) because it does not exist
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967298/layout81, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967300/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967310/layout24, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967314/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/X5Wcp9Ugq7sZToVDu26YRTjm5OYazRuFrO0o8wz5lEo.js line 2 > eval line 5484 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 160: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1661541731354	Marionette	INFO	Stopped listening on port 55048
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 19824, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661541765521	geckodriver	INFO	Listening on 127.0.0.1:55680
+1661541769591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55681" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileQ4voQe"
+1661541770016	Marionette	INFO	Marionette enabled
+1661541770023	Marionette	INFO	Listening on port 55688
+WebDriver BiDi listening on ws://localhost:55681
+Read port: 55688
+1661541770259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+1661541796706	geckodriver	INFO	Listening on 127.0.0.1:55694
+1661541800779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofile3oIKhB"
+1661541801095	Marionette	INFO	Marionette enabled
+1661541801101	Marionette	INFO	Listening on port 55702
+WebDriver BiDi listening on ws://localhost:55695
+Read port: 55702
+1661541801344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:55695/devtools/browser/6ac70191-313a-4923-a4b9-05e1c67e61b9
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofile3oIKhB\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661541877373	Marionette	INFO	Stopped listening on port 55701661541880534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileBzctAo"
+1661541880933	Marionette	INFO	Marionette enabled
+1661541880939	Marionette	INFO	Listening on port 55836
+WebDriver BiDi listening on ws://localhost:55823
+Read port: 55836
+1661541881180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:55823/devtools/browser/4ab5ead0-d491-43e2-a60d-6f010028d9e0
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileBzctAo\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.43265c5e.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.43265c5e.js, line 1: PlaybackError: No supported keysystem was found.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: "Unable to find target with innerWindowId:4294967316"
+console.error: "Unable to find target with innerWindowId:4294967316"
+console.error: "Unable to find target with innerWindowId:4294967316"
+console.error: "Unable to find target with innerWindowId:4294967316"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1661542293122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56049" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilem0Ed2g"
+1661542293439	Marionette	INFO	Marionette enabled
+1661542293445	Marionette	INFO	Listening on port 56063
+WebDriver BiDi listening on ws://localhost:56049
+Read port: 56063
+1661542293688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:56049/devtools/browser/895ddcc0-0d4c-419d-b2b7-e49016772210
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilem0Ed2g\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661542328731	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-08-26T19:33:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:33:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:33:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:33:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:33:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:33:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:33:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:33:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:33:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:33:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:33:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-26T19:33:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:34:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:34:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:34:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:34:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:34:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:34:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:34:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:34:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:34:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:34:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:34:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:34:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:35:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:35:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:35:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:35:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:35:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:35:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:35:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:35:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:36:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:36:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:36:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:36:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:36:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:36:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:36:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:36:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:37:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:37:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:37:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:37:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:37:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:37:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:37:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:37:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:37:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:37:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:37:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:37:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:38:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:38:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:38:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:38:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:38:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:38:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:38:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:38:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:39:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:39:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:39:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:39:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:39:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:39:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:39:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:39:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661542807312	Marionette	INFO	Stopped listening on port 56063
+1661542812208	geckodriver	INFO	Listening on 127.0.0.1:56245
+1661542816197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56246" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileaKXrbJ"
+1661542816724	Marionette	INFO	Marionette enabled
+1661542816730	Marionette	INFO	Listening on port 56253
+WebDriver BiDi listening on ws://localhost:56246
+Read port: 56253
+1661542816966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:56246/devtools/browser/cba37bae-2468-4b71-86bb-26268d0d7707
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileaKXrbJ\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.43265c5e.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.43265c5e.js, line 1: PlaybackError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.43265c5e.js, line 1: DUPLICATE_REQUEST_ERROR: DUPLICATE_REQUEST_ERROR: Already sent this request (GET::https://api.spotify.com/v1/me/tracks/contains::{"ids":"6YzCRaCp5CQiHzthyupeBF,2foDaqiGEPFeYN2ecxLHZU,5Vvu6MkyvNVdbsD5oV49Aw,5ANQcP9cHO6rC53lEWPnqq,336ASHsxDakSN80bubkfZV,5QTKooEvwEXuXJfc1bPJ61,2Rj5TXc2G7sv7rAqJntMgn,1BAupWJ7hkJFJuOL0eHb45,5PNvgiKSwMdjBsDsgFCFLX,0aULRU35N9kTj6O1xMULRR"})
+1661542985904	Marionette	INFO	Stopped listening on port 56253
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14064, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661542989695	geckodriver	INFO	Listening on 127.0.0.1:56381
+1661542993826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56382" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofile2EOY4l"
+1661542994113	Marionette	INFO	Marionette enabled
+1661542994118	Marionette	INFO	Listening on port 56389
+WebDriver BiDi listening on ws://localhost:56382
+Read port: 56389
+1661542994321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:56382/devtools/browser/5156c20f-f7c7-4def-af75-410d0391a39d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofile2EOY4l\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofile2EOY4l\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofile2EOY4l\thumbnails) because it does not exist
+1661550686322	Marionette	INFO	Stopped listening on port 56389
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+le is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:56476/devtools/browser/8e6cafc6-5297-42fb-aebc-74439ffc7ba2
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1661543096284	geckodriver	INFO	Listening on 127.0.0.1:56550
+1661543100272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileeXtPiC"
+1661543100736	Marionette	INFO	Marionette enabled
+1661543100742	Marionette	INFO	Listening on port 56558
+WebDriver BiDi listening on ws://localhost:56551
+Read port: 56558
+1661543100985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:56551/devtools/browser/f47ba067-0c62-47fa-9acf-609ff20eb4fe
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileeXtPiC\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661543133180	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-08-26T19:46:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:46:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:46:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:46:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:46:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:46:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:46:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:46:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:47:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:47:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:47:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:47:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-26T19:47:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:47:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:47:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:47:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:47:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:47:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:47:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:47:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661543287242	Marionette	INFO	Stopped listening on port 56558
+[Parent 19684, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661543290977	geckodriver	INFO	Listening on 127.0.0.1:56703
+1661543294995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56704" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofile3uIoHv"
+1661543295376	Marionette	INFO	Marionette enabled
+1661543295382	Marionette	INFO	Listening on port 56713
+WebDriver BiDi listening on ws://localhost:56704
+Read port: 56713
+1661543295613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:56704/devtools/browser/a06327e5-6188-44e1-9955-e0ff3ee9cdd4
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1661543310868	Marionette	INFO	Stopped listening on port 56713
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661543365824	geckodriver	INFO	Listening on 127.0.0.1:56808
+1661543369921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileZIOZtZ"
+1661543370242	Marionette	INFO	Marionette enabled
+1661543370248	Marionette	INFO	Listening on port 56816
+WebDriver BiDi listening on ws://localhost:56809
+Read port: 56816
+1661543370482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:56809/devtools/browser/45f2e5d6-6fa6-496e-9404-0517c5864b55
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+[2022-08-26T19:49:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:49:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:49:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:49:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileZIOZtZ\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661543407768	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661543418173	Marionette	INFO	Stopped listening on port 56816
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661543441447	geckodriver	INFO	Listening on 127.0.0.1:56972
+1661543445531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileCM2oVt"
+1661543445850	Marionette	INFO	Marionette enabled
+1661543445856	Marionette	INFO	Listening on port 56980
+WebDriver BiDi listening on ws://localhost:56973
+Read port: 56980
+1661543446094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:56973/devtools/browser/c9da2907-e124-49f3-a158-ba9c2c8639bb
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileCM2oVt\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+[2022-08-26T19:52:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:52:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:52:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:52:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:52:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:52:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:52:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:52:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:52:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:52:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:52:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-26T19:52:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:53:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:53:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:53:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:53:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:53:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:53:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:53:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:53:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:54:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:54:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:54:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:54:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:54:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:54:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:54:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-26T19:54:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661543685730	Marionette	INFO	Stopped listening on port 56980
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661559204088	geckodriver	INFO	Listening on 127.0.0.1:50281
+1661559208179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50282" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofiledIQVpo"
+1661559208732	Marionette	INFO	Marionette enabled
+1661559208748	Marionette	INFO	Listening on port 50289
+WebDriver BiDi listening on ws://localhost:50282
+Read port: 50289
+1661559209144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:50282/devtools/browser/c430bb2d-c29e-4e0c-951d-542b5a625a13
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofiledIQVpo\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661559247034	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.a767228d.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.a767228d.js, line 1: PlaybackError: No supported keysystem was found.
+[2022-08-27T00:15:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:15:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:15:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:15:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:15:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:15:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:15:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:15:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:15:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:15:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:15:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:15:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-27T00:16:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:16:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:16:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:16:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:16:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:16:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:16:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:16:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:17:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:17:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:17:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:17:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:17:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:17:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:17:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:17:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:17:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:17:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:17:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:17:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:18:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:18:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:18:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T00:18:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661562136371	Marionette	INFO	Stopped listening on port 50289
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+93
+Read port: 50701
+1661562132583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:50693/devtools/browser/07b18193-9362-4750-8254-fe02426eedf5
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileVjwzt9\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661562168368	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.3fe325b0.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.3fe325b0.js, line 1: PlaybackError: No supported keysystem was found.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661562344459	Marionette	INFO	Stopped listening on port 50701
+1661562349240	geckodriver	INFO	Listening on 127.0.0.1:50839
+1661562353562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50840" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileG0hgz1"
+1661562353884	Marionette	INFO	Marionette enabled
+1661562353890	Marionette	INFO	Listening on port 50850
+WebDriver BiDi listening on ws://localhost:50840
+Read port: 50850
+1661562354154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:50840/devtools/browser/0f47d5c1-e6bf-4e5d-8d71-0cc006be2715
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileG0hgz1\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661562387105	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-08-27T01:07:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:07:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:07:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:07:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:07:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:07:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:07:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:07:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:07:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:07:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:07:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:07:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-27T01:08:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:08:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:08:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:08:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:08:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:08:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:08:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:08:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:08:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:08:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:08:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:08:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:09:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:09:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:09:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:09:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:09:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:09:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:09:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:09:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:10:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:10:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:10:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:10:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:10:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:10:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:10:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:10:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:11:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:11:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:11:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:11:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:11:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:11:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:11:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:11:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:11:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:11:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:11:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:11:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:12:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:12:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:12:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:12:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:12:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:12:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:12:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:12:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:13:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:13:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:13:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:13:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:13:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:13:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:13:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:13:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:13:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:13:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:13:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:13:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:14:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:14:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:14:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:14:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/X5Wcp9Ugq7sZToVDu26YRTjm5OYazRuFrO0o8wz5lEo.js line 2 > eval line 3150 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661562893196	Marionette	INFO	Stopped listening on port 50850
+[Parent 11516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661562900441	geckodriver	INFO	Listening on 127.0.0.1:51047
+1661562904570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51048" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileoKEFtH"
+1661562904934	Marionette	INFO	Marionette enabled
+1661562904941	Marionette	INFO	Listening on port 51055
+WebDriver BiDi listening on ws://localhost:51048
+Read port: 51055
+1661562905208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:51048/devtools/browser/accbd5d4-aef2-4d6d-8b85-04b25eca4d5d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileoKEFtH\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661562938474	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-08-27T01:16:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:16:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:16:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:16:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:16:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:16:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:16:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:16:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-27T01:17:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:17:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:17:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:17:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:17:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:17:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:17:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:17:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:17:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:17:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:17:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:17:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:18:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:18:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:18:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:18:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:18:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:18:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:18:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:18:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:19:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:19:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:19:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:19:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:19:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:19:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:19:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:19:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:19:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:19:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:19:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:19:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:20:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:20:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:20:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:20:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:20:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:20:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:20:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:20:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:21:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:21:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:21:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:21:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:21:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:21:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:21:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:21:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:22:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:22:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:22:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:22:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:22:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:22:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:22:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:22:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:22:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:22:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:22:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:22:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661563423657	Marionette	INFO	Stopped listening on port 51055
+[Parent 13932, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 13932, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661563429188	geckodriver	INFO	Listening on 127.0.0.1:51241
+1661563433249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51242" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofile18miAM"
+1661563433582	Marionette	INFO	Marionette enabled
+1661563433588	Marionette	INFO	Listening on port 51249
+WebDriver BiDi listening on ws://localhost:51242
+Read port: 51249
+1661563433838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:51242/devtools/browser/e1fe1086-eae0-4fb2-b256-fe85ce782e74
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofile18miAM\thumbnails) because it does not exist
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.3fe325b0.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.3fe325b0.js, line 1: PlaybackError: No supported keysystem was found.
+[2022-08-27T01:25:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:25:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:25:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:25:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:25:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:25:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:25:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:25:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-27T01:26:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:26:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:26:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:26:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:26:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:26:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:26:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:26:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:27:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:27:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:27:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:27:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:27:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:27:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:27:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:27:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:27:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:27:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:27:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:27:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:28:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:28:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:28:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:28:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:28:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:28:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:28:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:28:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:29:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:29:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:29:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:29:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:29:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:29:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:29:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:29:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:30:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:30:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:30:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:30:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:30:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:30:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:30:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T01:30:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661565273753	Marionette	INFO	Stopped listening on port 51249
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661604937192	geckodriver	INFO	Listening on 127.0.0.1:52187
+1661604941424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofile411YNv"
+1661604942013	Marionette	INFO	Marionette enabled
+1661604942028	Marionette	INFO	Listening on port 52195
+WebDriver BiDi listening on ws://localhost:52188
+Read port: 52195
+1661604942450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:52188/devtools/browser/3c80fe05-c5ca-41d8-91de-3e750468f0f5
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofile411YNv\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.9f4a32a4.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.9f4a32a4.js, line 1: PlaybackError: No supported keysystem was found.
+[2022-08-27T12:57:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:57:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:57:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:57:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:57:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:57:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:57:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:57:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-27T12:58:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:58:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:58:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:58:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:58:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:58:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:58:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:58:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:59:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:59:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:59:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:59:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:59:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:59:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:59:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:59:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:59:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:59:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:59:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T12:59:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:00:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:00:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:00:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:00:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:00:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:00:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:00:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:00:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661606075193	Marionette	INFO	Stopped listening on port 52195
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 7180, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l\\Temp\\rust_mozprofileVRl1cj"
+1661606070101	Marionette	INFO	Marionette enabled
+1661606070107	Marionette	INFO	Listening on port 52475
+WebDriver BiDi listening on ws://localhost:52468
+Read port: 52475
+1661606070356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:52468/devtools/browser/c052a78e-f915-4cd9-8e5f-b38bd9aa711f
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileVRl1cj\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661606103854	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-08-27T13:16:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:16:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:16:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:16:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:16:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:16:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:16:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:16:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:16:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:16:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:16:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:16:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-27T13:17:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:17:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:17:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:17:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:17:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:17:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:17:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:17:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:17:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:17:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:17:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:17:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:18:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:18:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:18:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:18:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:18:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:18:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:18:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:18:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661606354032	Marionette	INFO	Stopped listening on port 52475
+[Parent 9580, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661606356558	geckodriver	INFO	Listening on 127.0.0.1:52649
+1661606360721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofile3CmQLA"
+1661606361054	Marionette	INFO	Marionette enabled
+1661606361063	Marionette	INFO	Listening on port 52657
+WebDriver BiDi listening on ws://localhost:52650
+Read port: 52657
+1661606361343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:52650/devtools/browser/f6d98b40-50ba-474d-8590-8223bc3249b3
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1661606903719	geckodriver	INFO	Listening on 127.0.0.1:52715
+1661606907820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52716" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileit50Rb"
+1661606908180	Marionette	INFO	Marionette enabled
+1661606908186	Marionette	INFO	Listening on port 52723
+WebDriver BiDi listening on ws://localhost:52716
+Read port: 52723
+1661606908457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:52716/devtools/browser/50c1cee0-ee76-4f51-a9b5-f7326d9be5ef
+1661606914413	Marionette	INFO	Stopped listening on port 52723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661606947203	geckodriver	INFO	Listening on 127.0.0.1:52748
+1661606951344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileYWSMQs"
+1661606951666	Marionette	INFO	Marionette enabled
+1661606951672	Marionette	INFO	Listening on port 52756
+WebDriver BiDi listening on ws://localhost:52749
+Read port: 52756
+1661606951920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:52749/devtools/browser/43dc6697-9a19-47cd-977a-727cf5dbfe06
+1661606960943	Marionette	INFO	Stopped listening on port 52756
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661608120954	geckodriver	INFO	Listening on 127.0.0.1:52894
+1661608125335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileW11P9d"
+1661608125679	Marionette	INFO	Marionette enabled
+1661608125685	Marionette	INFO	Listening on port 52902
+WebDriver BiDi listening on ws://localhost:52895
+Read port: 52902
+1661608125957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:52895/devtools/browser/a70b7aa8-ca8d-4d20-b3a9-1a8a984e1e29
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileW11P9d\thumbnails) because it does not exist
+1661608195137	Marionette	INFO	Stopped listening on port 52901661608198004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilefAoXSU"
+1661608198312	Marionette	INFO	Marionette enabled
+1661608198318	Marionette	INFO	Listening on port 52940
+WebDriver BiDi listening on ws://localhost:52932
+Read port: 52940
+1661608198582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:52932/devtools/browser/33757cb4-562e-4aea-b7fb-40cd0055d1bd
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilefAoXSU\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661608265208	Marionette	INFO	Stopped listening on port 52941661608269372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileASJzbz"
+1661608269716	Marionette	INFO	Marionette enabled
+1661608269722	Marionette	INFO	Listening on port 53082
+WebDriver BiDi listening on ws://localhost:53073
+Read port: 53082
+1661608269998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:53073/devtools/browser/31165014-6026-4d60-8a90-db9a8c240b05
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileASJzbz\thumbnails) because it does not exist
+[2022-08-27T13:51:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:51:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:51:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T13:51:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661608376109	Marionette	INFO	Stopped listening on port 53081661608379458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofile7RJ0w3"
+1661608379798	Marionette	INFO	Marionette enabled
+1661608379804	Marionette	INFO	Listening on port 53198
+WebDriver BiDi listening on ws://localhost:53188
+Read port: 53198
+1661608380068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:53188/devtools/browser/4413c985-b938-4307-b624-422e4a0a733e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofile7RJ0w3\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.af014854.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.af014854.js, line 1: PlaybackError: No supported keysystem was found.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1661609477330	Marionette	INFO	Stopped listening on port 53198
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilehMYg9g"
+1661608783632	Marionette	INFO	Marionette enabled
+1661608783639	Marionette	INFO	Listening on port 53376
+WebDriver BiDi listening on ws://localhost:53369
+Read port: 53376
+1661608784045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:53369/devtools/browser/ec9feac2-9332-46d1-951f-df6c4c488103
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilehMYg9g\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1661608819897	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.af014854.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.af014854.js, line 1: PlaybackError: No supported keysystem was found.
+[2022-08-27T14:01:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:01:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:01:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:01:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:01:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:01:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:01:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:01:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:02:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:02:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:02:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:02:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-27T14:02:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:02:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:02:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:02:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:02:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:02:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:02:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:02:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:03:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:03:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:03:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:03:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:03:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:03:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:03:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:03:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:04:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:04:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:04:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:04:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:04:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:04:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:04:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:04:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:04:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:04:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:04:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:04:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661609133993	Marionette	INFO	Stopped listening on port 53376
+[Parent 3724, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661609136511	geckodriver	INFO	Listening on 127.0.0.1:53546
+1661609140626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53547" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileyT6fIr"
+1661609140966	Marionette	INFO	Marionette enabled
+1661609140978	Marionette	INFO	Listening on port 53554
+WebDriver BiDi listening on ws://localhost:53547
+Read port: 53554
+1661609141244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:53547/devtools/browser/9e444a6f-621e-4930-a5ee-7e4a6ab8fbad
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileyT6fIr\thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+[2022-08-27T14:07:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:07:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:07:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:07:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:07:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:07:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:07:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:07:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:07:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:07:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:07:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:07:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-08-27T14:08:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:08:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:08:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:08:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:08:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:08:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:08:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:08:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:09:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:09:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:09:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:09:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:09:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:09:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:09:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:09:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:09:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:09:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:09:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:09:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:10:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:10:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:10:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:10:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:10:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:10:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:10:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:10:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:11:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:11:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:11:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:11:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:11:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:11:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:11:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:11:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:11:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:11:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:11:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:11:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:12:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:12:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:12:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:12:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:12:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:12:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:12:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:12:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:13:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:13:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:13:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:13:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:13:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:13:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:13:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:13:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:13:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:13:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:13:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:13:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:14:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:14:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:14:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:14:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:14:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:14:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:14:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:14:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661609733886	Marionette	INFO	Stopped listening on port 53554
+[Parent 16312, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661609738968	geckodriver	INFO	Listening on 127.0.0.1:53773
+1661609743011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileqzEmlL"
+1661609743325	Marionette	INFO	Marionette enabled
+1661609743332	Marionette	INFO	Listening on port 53781
+WebDriver BiDi listening on ws://localhost:53774
+Read port: 53781
+1661609743595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:53774/devtools/browser/9e60d8cb-94f1-4c4c-96f4-8a7691328cc2
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileqzEmlL\thumbnails) because it does not exist
+1661609776405	Marionette	INFO	Stopped listening on port 53781
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 4364, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661609843327	geckodriver	INFO	Listening on 127.0.0.1:53895
+1661609847369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53896" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilebpVbIC"
+1661609847698	Marionette	INFO	Marionette enabled
+1661609847705	Marionette	INFO	Listening on port 53903
+WebDriver BiDi listening on ws://localhost:53896
+Read port: 53903
+1661609847945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:53896/devtools/browser/57fe27df-0507-49ce-bfc0-bb1555caf86e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1661609871486	geckodriver	INFO	Listening on 127.0.0.1:54016
+1661609875601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileG5mn2q"
+1661609875921	Marionette	INFO	Marionette enabled
+1661609875928	Marionette	INFO	Listening on port 54024
+WebDriver BiDi listening on ws://localhost:54017
+Read port: 54024
+1661609876175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:54017/devtools/browser/6791d700-acfb-45ac-b14a-085c07f91341
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+[2022-08-27T14:18:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:18:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:18:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:18:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:18:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:18:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:18:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:18:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileG5mn2q\thumbnails) because it does not exist
+[2022-08-27T14:18:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:18:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:18:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:18:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:18:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:18:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:18:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:18:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:19:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/X5Wcp9Ugq7sZToVDu26YRTjm5OYazRuFrO0o8wz5lEo.js line 2 > eval line 7252 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661610023483	Marionette	INFO	Stopped listening on port 54024
+[Parent 11752, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661610025323	geckodriver	INFO	Listening on 127.0.0.1:54100
+1661610029601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofilex36prx"
+1661610029944	Marionette	INFO	Marionette enabled
+1661610029951	Marionette	INFO	Listening on port 54108
+WebDriver BiDi listening on ws://localhost:54101
+Read port: 54108
+1661610030205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:54101/devtools/browser/00eaa0ec-d0ae-465e-b931-19dfd9f36ca4
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+[2022-08-27T14:20:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:20:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:20:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:20:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:20:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:20:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:20:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:20:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofilex36prx\thumbnails) because it does not exist
+[2022-08-27T14:21:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:21:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:21:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:21:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:21:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:21:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:21:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:21:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:21:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:21:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:21:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:21:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:21:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:21:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:21:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:21:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:22:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:22:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:22:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:22:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:22:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:22:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:22:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:22:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:22:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:22:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:22:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:22:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:23:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:23:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:23:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:23:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661610236295	Marionette	INFO	Stopped listening on port 54108
+1661610237809	geckodriver	INFO	Listening on 127.0.0.1:54164
+1661610242158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileqbcsOt"
+1661610242483	Marionette	INFO	Marionette enabled
+1661610242489	Marionette	INFO	Listening on port 54172
+WebDriver BiDi listening on ws://localhost:54165
+Read port: 54172
+1661610242743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:54165/devtools/browser/d6df1a2f-ae0e-42dc-b4f5-5a189b6031e2
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+[2022-08-27T14:24:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:24:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:24:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:24:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:24:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:24:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:24:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:24:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileqbcsOt\thumbnails) because it does not exist
+[2022-08-27T14:24:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:24:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:24:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:24:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:25:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:26:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:26:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:26:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:26:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:26:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:26:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:26:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:26:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:26:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:26:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:26:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:26:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:27:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:27:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:27:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:27:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:27:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:27:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:27:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:27:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:27:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:27:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:27:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:27:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:28:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:28:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:28:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:28:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:28:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:28:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:28:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:28:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:28:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:28:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:28:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:28:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:29:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:29:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:29:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:29:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:29:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:29:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:29:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:29:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:30:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:30:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:30:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:30:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:30:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:30:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:30:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:30:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:30:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:30:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:30:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:30:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:31:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:31:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:31:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:31:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:31:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:31:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:31:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:31:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:31:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:31:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:31:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:31:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:32:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:32:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:32:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:32:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:32:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:32:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:32:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:32:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:32:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:32:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:32:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:32:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:33:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:33:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:33:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:33:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:33:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:33:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:33:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:33:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:33:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:33:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:33:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:33:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:34:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:34:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:34:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:34:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:34:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:34:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:34:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:34:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:34:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:34:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:34:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:34:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:35:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:35:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:35:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:35:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:35:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:35:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:35:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:35:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:35:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:35:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:35:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:35:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:36:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:36:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:36:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:36:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:36:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:36:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:36:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:36:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:36:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:36:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:36:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:36:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:37:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:37:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:37:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:37:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:37:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:37:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:37:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:37:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:38:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:38:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:38:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:38:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:38:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:38:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:38:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:38:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:39:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:39:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:39:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:39:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:39:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:39:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:39:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:39:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:39:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:39:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:39:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:39:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:40:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:40:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:40:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:40:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:40:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:40:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:40:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:40:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"

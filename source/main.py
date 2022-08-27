@@ -6,13 +6,14 @@ from datetime import datetime
 from json import (loads, dump)
 from colorama import (Fore, Style)
 from selenium.webdriver import Firefox
+from json.decoder import JSONDecodeError
 from inspect import (getfile, currentframe)
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.support.expected_conditions import element_to_be_clickable, visibility_of_element_located
+from selenium.common.exceptions import (NoSuchElementException, TimeoutException)
+from selenium.webdriver.support.expected_conditions import (element_to_be_clickable, visibility_of_element_located)
 
 
 # _Source______________________________________________________________________________________________________________#
@@ -25,8 +26,9 @@ class Spotify:
         # Folders
         self.main_folder = os.path.dirname(os.path.abspath(getfile(currentframe())))[0:-7]
         self.main_folders = {
+            "add_ons": r"{}\data\add_ons".format(self.main_folder),
             "settings": r"{}\data\settings".format(self.main_folder),
-            "add_ons": r"{}\data\add_ons".format(self.main_folder)
+            "temporary": r"{}\data\temporary".format(self.main_folder)
         }
 
         # Json sentings
@@ -51,7 +53,7 @@ class Spotify:
             self.browser = "Firefox"
 
         self.action_chains = ActionChains(self.driver)
-        self.wait = WebDriverWait(self.driver, 50, poll_frequency=1)
+        self.wait = WebDriverWait(self.driver, 30, poll_frequency=1)
         self.driver.set_window_size(self.init_configs["window_size_x"], self.init_configs["window_size_y"])
         self.driver.set_window_rect(self.init_configs["window_position_x"], self.init_configs["window_position_y"])
 
@@ -73,11 +75,19 @@ class Spotify:
         # Global variables
         self.youtube_songs_titles_and_times = []
         self.songs_for_add_in_youtube_playlist = []
-        self.spotify_songs_titles_artists_and_times = []
+        try:
+            if loads(open(r"{}\spotify_songs.json".format(self.main_folders["temporary"])).read()) is not None:
+                self.spotify_songs_titles_artists_and_times = \
+                    loads(open(r"{}\spotify_songs.json".format(self.main_folders["temporary"])).read())
+            else:
+                self.spotify_songs_titles_artists_and_times = []
+        except JSONDecodeError:
+            self.spotify_songs_titles_artists_and_times = []
 
     def Start(self):
-        self.SingInSpotify()
-        self.SaveLikedSoungs()
+        if len(self.spotify_songs_titles_artists_and_times) == 0:
+            self.SingInSpotify()
+            self.SaveLikedSoungs()
         self.SavePlayListSougs()
         self.Comparing()
         self.PutSongsInPlayList()
@@ -150,6 +160,8 @@ class Spotify:
                               window_position_x=self.driver.get_window_position()["x"],
                               window_position_y=self.driver.get_window_position()["y"],
                               play_list_title=self.init_configs["play_list_title"],
+                              spotify_email=self.init_configs["spotify_email"],
+                              spotify_password=self.init_configs["spotify_password"],
                               spotify_songs_link=self.init_configs["spotify_songs_link"],
                               youtube_playlist_link=self.init_configs["youtube_playlist_link"],
                               )
@@ -161,8 +173,9 @@ class Spotify:
         # Indo para o site das músicas favoritas
         self.driver.get(self.urls["liked_songs_spotify"])
         # Verificando se tudo está correto
-        assert str(self.driver.current_url).split("/")[-1] == "tracks", 'Na url está: "{}" ao invéz de "tracks"'.format(
-            str(self.driver.current_url).split("/")[-1])
+        assert str(self.driver.current_url).split("/")[3] == "tracks" or \
+               str(self.driver.current_url).split("/")[3] == "playlist", \
+            'Obs: tem algo de errado. Lembre-se que o programa só funciona com playlists ou as músicas favoritasdo Spotify'
 
         # Esperando site carregar
         loc = (By.CSS_SELECTOR, 'span[class="Type__TypeElement-goli3j-0 cPwEdQ RANLXG3qKB61Bh33I0r2"]')
@@ -171,7 +184,7 @@ class Spotify:
         # Obtendo quantidade de músicas
         self.Print("Obtendo quantidade de músicas", "BLUE")
         loc = (By.CSS_SELECTOR, 'span[class="Type__TypeElement-goli3j-0 cPwEdQ RANLXG3qKB61Bh33I0r2"]')
-        songs_number = self.driver.find_element(*loc).text
+        songs_number = self.driver.find_elements(*loc)[-1].text
         songs_number = songs_number.split(' ')[0]
 
         # Obtendo Títulos e durações das músicas
@@ -222,6 +235,10 @@ class Spotify:
             else:
                 break
 
+        # Salvando músicas em um aquivo temporário json
+        with open(r"{}\spotify_songs.json".format(self.main_folders["temporary"]), "w") as setting:
+            dump(self.spotify_songs_titles_artists_and_times, setting)
+
         # Salvando informações
         self.SaveInformations(self.locate_settings,
                               browser=self.browser, profile=self.profile,
@@ -230,6 +247,8 @@ class Spotify:
                               window_position_x=self.driver.get_window_position()["x"],
                               window_position_y=self.driver.get_window_position()["y"],
                               play_list_title=self.init_configs["play_list_title"],
+                              spotify_email=self.init_configs["spotify_email"],
+                              spotify_password=self.init_configs["spotify_password"],
                               spotify_songs_link=self.init_configs["spotify_songs_link"],
                               youtube_playlist_link=self.init_configs["youtube_playlist_link"],
                               )
@@ -268,22 +287,36 @@ class Spotify:
         except NoSuchElementException:
             pass
 
-        songs_titles = []
+        count = 0
         songs_times = []
+        songs_titles = []
         while True:
+            count += 10
+
             # Vendo se está na página correta
             assert "playlist" in self.driver.current_url.split("/")[3], "Página incorreta"
+
             # Obtendo título das músicas
             loc = (By.CSS_SELECTOR, 'a[id="video-title"]')
             for title in self.driver.find_elements(*loc):
-                if not title in songs_titles:
-                    songs_titles.append(title)
+                if not title in songs_titles and title.text != "":
+                    if len(songs_titles) <= count:
+                        songs_titles.append(title)
+
             # Obtendo tempo das músicas
             loc = (By.CSS_SELECTOR, 'ytd-thumbnail-overlay-time-status-renderer[class="style-scope ytd-thumbnail"]')
             for duraction in self.driver.find_elements(*loc):
-                if not duraction in songs_times:
-                    songs_times.append(duraction)
+                if not duraction in songs_times and duraction.text != "":
+                    if len(songs_times) <= count:
+                        songs_times.append(duraction)
             self.Print("Quantidade de músicas obtidas: {} de {}".format(len(songs_titles), int(songs_number)), "MAGENTA")
+
+            # Adicionando as informações obtidas em uma lista
+            for duraction in enumerate(songs_times):
+                assert songs_times[1].text != "", "Algo de errado com os tempos das músicas"
+                if duraction[0] + 1 > len(self.youtube_songs_titles_and_times):
+                    self.youtube_songs_titles_and_times.append([songs_titles[duraction[0]].text, duraction[1].text])
+
             if int(songs_number) == len(songs_titles) and int(songs_number) == len(songs_times):
                 break
             else:
@@ -291,9 +324,9 @@ class Spotify:
                 self.driver.find_element(By.CSS_SELECTOR, 'html').send_keys(Keys.PAGE_DOWN)
                 time.sleep(random.randint(0, 2))
 
-        # Adicionando as informações obtidas em uma lista
-        for title in enumerate(songs_titles):
-            self.youtube_songs_titles_and_times.append([title[1].text, songs_times[title[0]].text])
+        # Revisando se está tudo correto
+        assert int(songs_number) == len(songs_times), "A quantidade me músicas não está de acordo com as de tempos"
+        assert int(songs_number) == len(songs_titles), "A quantidade me músicas não está de acordo com as de titulos"
 
         # Salvando informações
         self.SaveInformations(self.locate_settings,
@@ -303,6 +336,8 @@ class Spotify:
                               window_position_x=self.driver.get_window_position()["x"],
                               window_position_y=self.driver.get_window_position()["y"],
                               play_list_title=self.init_configs["play_list_title"],
+                              spotify_email=self.init_configs["spotify_email"],
+                              spotify_password=self.init_configs["spotify_password"],
                               spotify_songs_link=self.init_configs["spotify_songs_link"],
                               youtube_playlist_link=self.init_configs["youtube_playlist_link"],
                               )
@@ -315,17 +350,18 @@ class Spotify:
     def Comparing(self):
         # Comparando se os títulos e os tempos das músicas obtidas são semelhantes
         self.Print("Comparando se os títulos e os tempos das músicas obtidas são semelhantes", "BLUE")
-        print("\n\n")
         songs_exist = []
         for songs in self.spotify_songs_titles_artists_and_times:
             for songs1 in self.youtube_songs_titles_and_times:
                 print("Comparando", Fore.LIGHTMAGENTA_EX + '"{}"'.format(songs[0]) + Style.RESET_ALL, "com",
                       Fore.MAGENTA + '"{}"'.format(songs1[0]) + Style.RESET_ALL)
-                if songs[0].lower() in songs1[0].lower():
-                    if abs(int(songs[2].replace(':', '')) - int(songs1[1].replace(':', ''))) <= 5:
-                        self.Print('"{}" já estáva na play-list do youtube!'.format(songs[0]), "YELLOW")
-                        songs_exist.append(songs[0])
-                        break
+                for song_names_part in songs[0].split(" "):
+                    if song_names_part.lower() in songs1[0].lower() and len(song_names_part.lower()) >= 3 and song_names_part != " ":
+                        if abs(int(songs[2].replace(':', '')) - int(songs1[1].replace(':', ''))) <= 5:
+                            self.Print('"{}" já estáva na play-list do youtube!'.format(songs[0]), "YELLOW")
+                            songs_exist.append(songs[0])
+                            break
+
 
         # Obtendo as músicas que serão postas na play-list do youtube
         for songs in self.spotify_songs_titles_artists_and_times:
@@ -340,7 +376,6 @@ class Spotify:
         #self.songs_for_add_in_youtube_playlist = list(set(self.songs_for_add_in_youtube_playlist))
         self.Print("Músicas que serão adicionadas na play-list do youtube:", "MAGENTA")
         print(self.songs_for_add_in_youtube_playlist)
-        print("\n\n")
 
         # Salvando informações
         self.SaveInformations(self.locate_settings,
@@ -350,6 +385,8 @@ class Spotify:
                               window_position_x=self.driver.get_window_position()["x"],
                               window_position_y=self.driver.get_window_position()["y"],
                               play_list_title=self.init_configs["play_list_title"],
+                              spotify_email=self.init_configs["spotify_email"],
+                              spotify_password=self.init_configs["spotify_password"],
                               spotify_songs_link=self.init_configs["spotify_songs_link"],
                               youtube_playlist_link=self.init_configs["youtube_playlist_link"],
                               )
@@ -389,9 +426,10 @@ class Spotify:
                 # Proucurando semelhanças entre as durações
                 duraction_is_similar = False
                 if title_is_similar:
-                    if abs(int(duraction.replace(":", "")) - int(song[1][1].replace(":", ""))) <= 5:
-                        self.Print("Música encontrada", "GREEN")
-                        duraction_is_similar = True
+                    if duraction != "" and song[1][1] != "":
+                        if abs(int(duraction.replace(":", "")) - int(song[1][1].replace(":", ""))) <= 5:
+                            self.Print("Música encontrada", "GREEN")
+                            duraction_is_similar = True
 
                 # Definindo se a música foi encontrada
                 if title_is_similar and duraction_is_similar:
@@ -424,15 +462,27 @@ class Spotify:
                     # Clickando em salvar na play-list
                     loc = (By.CSS_SELECTOR, 'tp-yt-paper-item[class="style-scope ytd-menu-service-item-renderer"]')
                     self.action_chains.move_to_element(self.driver.find_elements(*loc)[2]).click().perform()
-                    try:
-                        # Delay
-                        time.sleep(random.randint(1, 3))
+                    # Delay
+                    time.sleep(random.randint(1, 3))
 
-                        # Clickando em salvar na play-list escolhida
-                        self.Click('div[id="checkbox-label"] > yt-formatted-string[title="{}"]'.format(self.play_list_title))
+                    # Definindo se a música já estava na playlist ou não
+                    is_in_playlist = False
+                    try:
+                        for element_actived in self.driver.find_elements(By.CSS_SELECTOR, 'tp-yt-paper-checkbox[id="checkbox"][active=""]'):
+                            if element_actived.text == self.play_list_title:
+                                is_in_playlist = True
+                                self.Print('A música "{}" já estava na play-list "{}"'.format(title, self.play_list_title), "YELLOW")
+                                break
+                    except NoSuchElementException:
+                        pass
+
+                    # Caso a música não estiver na play-list clickar no botão de salvar na play-list
+                    try:
+                        if is_in_playlist is False:
+                            self.Click('div[id="checkbox-label"] > yt-formatted-string[title="{}"]'.format(self.play_list_title))
+                            self.Print('A música "{}" acaba de ser adicionada à play-list "{}"'.format(title, self.play_list_title), "MAGENTA")
                     except NoSuchElementException:
                         assert 1 + 1 == 3, "Provavelmente o título da play-list está incorreto"
-                    self.Print('A música "{}" acaba de ser adicionada à play-list "{}"'.format(title, self.play_list_title), "MAGENTA")
 
                     # Clickando no x
                     if value2 >= 50:
@@ -440,12 +490,13 @@ class Spotify:
                     break
 
             if not song_encontred:
-                self.Print('A música "{}" não foi encontrada', "RED")
+                self.Print('A música "{}" não foi encontrada'.format(song[1][0]), "RED")
+                self.songs_for_add_in_youtube_playlist.remove(song[1])
             else:
                 added += 1
                 self.Print("Quantidade músicas adicionadas a playlist:{} de {}".format(added, len(self.songs_for_add_in_youtube_playlist)), "CYAN")
 
-            time.sleep(random.randint(5, 10))
+            time.sleep(random.randint(1, 5))
 
             # Salvando informações
             self.SaveInformations(self.locate_settings,
@@ -455,12 +506,18 @@ class Spotify:
                                   window_position_x=self.driver.get_window_position()["x"],
                                   window_position_y=self.driver.get_window_position()["y"],
                                   play_list_title=self.init_configs["play_list_title"],
+                                  spotify_email=self.init_configs["spotify_email"],
+                                  spotify_password=self.init_configs["spotify_password"],
                                   spotify_songs_link=self.init_configs["spotify_songs_link"],
                                   youtube_playlist_link=self.init_configs["youtube_playlist_link"],
                                   )
 
     def Quit(self):
-        # Salvando informações
+        # Salvando músicas em um aquivo temporário json
+        with open(r"{}\spotify_songs.json".format(self.main_folders["temporary"]), "w") as setting:
+            dump(None, setting)
+
+        # Salvando as configurações
         self.SaveInformations(self.locate_settings,
                               browser=self.browser, profile=self.profile,
                               window_size_x=self.driver.get_window_size()['width'],
@@ -559,7 +616,16 @@ class Spotify:
 
 
 bot = Spotify()
-bot.Start()
+while True:
+    try:
+        bot.Start()
+    except TimeoutException:
+        bot.Print("\n\nERRO TIMEOUTEXCEPTION.", 'RED')
+        bot.Print("REINICIANDO AUTOMAÇÃO.\n", "GREEN")
+        bot.driver.quit()
+        bot = Spotify()
+    else:
+        break
 
 
 # _Finish______________________________________________________________________________________________________________#
