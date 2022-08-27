@@ -7770,3 +7770,7 @@ JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILUR
 [2022-08-27T14:45:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
 [2022-08-27T14:45:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileiIJK2F\thumbnails) because it does not exist
+[2022-08-27T14:45:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:45:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:45:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:45:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
