@@ -7713,3 +7713,60 @@ JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Cou
 [2022-08-27T14:40:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
 [2022-08-27T14:40:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
 [2022-08-27T14:40:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:40:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:40:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:40:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:40:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:41:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:41:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:41:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:41:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:41:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:41:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:41:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:41:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:41:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:41:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:41:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:41:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:42:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:42:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:42:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:42:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:42:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:42:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:42:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:42:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:42:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:42:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:42:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:42:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:43:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:43:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:43:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:43:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:43:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:43:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:43:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:43:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:43:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:43:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:43:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:43:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1661611485762	Marionette	INFO	Stopped listening on port 54172
+[Parent 4888, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661611491815	geckodriver	INFO	Listening on 127.0.0.1:54418
+1661611495931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jp000\\AppData\\Local\\Temp\\rust_mozprofileiIJK2F"
+1661611496279	Marionette	INFO	Marionette enabled
+1661611496285	Marionette	INFO	Listening on port 54426
+WebDriver BiDi listening on ws://localhost:54419
+Read port: 54426
+1661611496631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:54419/devtools/browser/6b97e5e9-079a-4389-91b4-ed028bddcaaf
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+[2022-08-27T14:45:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:45:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:45:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-27T14:45:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\jp000\AppData\Local\Temp\rust_mozprofileiIJK2F\thumbnails) because it does not exist
